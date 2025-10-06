@@ -1738,7 +1738,7 @@ interface DocumentInfo {
     chunksCount: number;
 }
 
-type ProviderType = 'ollama' | 'gemini' | 'cohere' | 'groq-cohere' | 'cohere-rerank';
+type ProviderType = 'ollama' | 'groq' | 'cohere' | 'jina' | 'openai-cohere';
 
 export default function SearchInterface() {
     const [uploading, setUploading] = useState(false);
@@ -1756,9 +1756,10 @@ export default function SearchInterface() {
     const [loadingDocs, setLoadingDocs] = useState(false);
     const [deletingDoc, setDeletingDoc] = useState('');
     const [provider, setProvider] = useState<ProviderType>('ollama');
-    const [geminiApiKey, setGeminiApiKey] = useState('');
-    const [cohereApiKey, setCohereApiKey] = useState('');
     const [groqApiKey, setGroqApiKey] = useState('');
+    const [cohereApiKey, setCohereApiKey] = useState('');
+    const [jinaApiKey, setJinaApiKey] = useState('');
+    const [openaiApiKey, setOpenaiApiKey] = useState('');
     const fileInputRef = useRef<HTMLInputElement>(null);
     const answerEndRef = useRef<HTMLDivElement>(null);
 
@@ -1855,25 +1856,11 @@ export default function SearchInterface() {
     };
 
     const getUploadEndpoint = () => {
-        switch (provider) {
-            case 'groq-cohere':
-                return '/api/upload-document-groq';
-            case 'cohere-rerank':
-                return '/api/upload-document-rerank';
-            default:
-                return '/api/upload-document';
-        }
+        return '/api/upload-document';
     };
 
     const getAskEndpoint = () => {
-        switch (provider) {
-            case 'groq-cohere':
-                return '/api/ask-question-groq';
-            case 'cohere-rerank':
-                return '/api/ask-question-rerank';
-            default:
-                return '/api/ask-question';
-        }
+        return '/api/ask-question';
     };
 
     const handleFileUpload = async (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -1894,8 +1881,8 @@ export default function SearchInterface() {
             formData.append('document', file);
             formData.append('provider', provider);
 
-            if (provider === 'gemini' && geminiApiKey) {
-                formData.append('apiKey', geminiApiKey);
+            if (provider === 'openai-cohere' && openaiApiKey) {
+                formData.append('apiKey', openaiApiKey);
             }
 
             const response = await fetch(getUploadEndpoint(), {
@@ -1934,10 +1921,20 @@ export default function SearchInterface() {
         try {
             const requestBody: any = { question };
 
-            if (provider === 'gemini' && geminiApiKey) {
-                requestBody.provider = 'gemini';
-                requestBody.apiKey = geminiApiKey;
-            } else if (provider === 'ollama') {
+            if (provider === 'openai-cohere') {
+                requestBody.provider = 'openai-cohere';
+                requestBody.openaiApiKey = openaiApiKey || process.env.OPENAI_API_KEY;
+                requestBody.cohereApiKey = cohereApiKey || process.env.COHERE_API_KEY;
+            } else if (provider === 'groq') {
+                requestBody.provider = 'groq';
+                requestBody.apiKey = groqApiKey || process.env.GROQ_API_KEY;
+            } else if (provider === 'cohere') {
+                requestBody.provider = 'cohere';
+                requestBody.apiKey = cohereApiKey || process.env.COHERE_API_KEY;
+            } else if (provider === 'jina') {
+                requestBody.provider = 'jina';
+                requestBody.apiKey = jinaApiKey || process.env.JINA_API_KEY;
+            } else {
                 requestBody.provider = 'ollama';
             }
 
@@ -2006,10 +2003,10 @@ export default function SearchInterface() {
     const getProviderDisplayName = () => {
         switch (provider) {
             case 'ollama': return 'Ollama (Local)';
-            case 'gemini': return 'Google Gemini';
+            case 'groq': return 'Groq (Cloud)';
             case 'cohere': return 'Cohere';
-            case 'groq-cohere': return 'Groq + Cohere';
-            case 'cohere-rerank': return 'Cohere Rerank';
+            case 'jina': return 'Jina AI';
+            case 'openai-cohere': return 'OpenAI + Cohere';
             default: return 'Unknown';
         }
     };
@@ -2031,13 +2028,13 @@ export default function SearchInterface() {
             needsKey: false
         },
         {
-            id: 'gemini',
-            name: 'Gemini',
-            icon: Cloud,
-            subtitle: '1M tokens/day',
-            color: 'blue',
+            id: 'groq',
+            name: 'Groq',
+            icon: Zap,
+            subtitle: 'Ultra Fast',
+            color: 'orange',
             needsKey: true,
-            keyLabel: 'Gemini API Key'
+            keyLabel: 'Groq API Key'
         },
         {
             id: 'cohere',
@@ -2049,28 +2046,28 @@ export default function SearchInterface() {
             keyLabel: 'Cohere API Key'
         },
         {
-            id: 'groq-cohere',
-            name: 'Groq+Cohere',
-            icon: Zap,
-            subtitle: 'Ultra Fast & Free',
-            color: 'orange',
+            id: 'jina',
+            name: 'Jina',
+            icon: Database,
+            subtitle: '1M tokens/day',
+            color: 'blue',
             needsKey: true,
-            keyLabel: 'Both API Keys'
+            keyLabel: 'Jina API Key'
         },
         {
-            id: 'cohere-rerank',
-            name: 'Cohere Rerank',
-            icon: Database,
-            subtitle: '2-Stage Search',
+            id: 'openai-cohere',
+            name: 'OpenAI+Cohere',
+            icon: Cpu,
+            subtitle: 'Hybrid Power',
             color: 'violet',
             needsKey: true,
-            keyLabel: 'Cohere API Key'
+            keyLabel: 'Both Keys'
         }
     ];
 
     return (
         <div className="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50 relative overflow-hidden">
-            {/* Animated Background Effects */}
+            {/* Animated Background */}
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
                 <div className="absolute top-0 -left-4 w-96 h-96 bg-blue-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob"></div>
                 <div className="absolute top-0 -right-4 w-96 h-96 bg-purple-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animation-delay-2000"></div>
@@ -2119,7 +2116,6 @@ export default function SearchInterface() {
                                 <h1 className="text-3xl font-black bg-gradient-to-r from-purple-600 via-indigo-600 to-pink-600 bg-clip-text text-transparent tracking-tight">
                                     SemanticSearch AI
                                 </h1>
-                                {/*<p className="text-sm text-purple-600 font-semibold">Powered by {getProviderDisplayName()}</p>*/}
                             </div>
                         </div>
 
@@ -2193,19 +2189,29 @@ export default function SearchInterface() {
                                     return (
                                         <button
                                             key={prov.id}
-                                            onClick={() => setProvider(prov.id as ProviderType)}
+                                            onClick={() => {
+                                                setProvider(prov.id as ProviderType);
+                                                setAnswer(null);
+                                                setSelectedHistory(null);
+                                            }}
                                             className={`relative overflow-hidden p-3 rounded-2xl border-2 transition-all duration-300 ${
                                                 isSelected
-                                                    ? `border-${prov.color}-400 bg-${prov.color}-50 shadow-lg`
+                                                    ? 'border-purple-500 bg-purple-50 shadow-lg scale-105'
                                                     : 'border-gray-200 bg-white hover:border-gray-300'
                                             }`}
                                         >
                                             <div className="relative">
-                                                <Icon className={`w-5 h-5 text-${prov.color}-600 mx-auto mb-1`} />
-                                                <div className="text-xs font-bold text-slate-800">{prov.name}</div>
-                                                <div className="text-[10px] text-slate-500 mt-0.5">{prov.subtitle}</div>
+                                                <Icon className={`w-5 h-5 mx-auto mb-1 ${
+                                                    isSelected ? 'text-purple-600' : 'text-gray-400'
+                                                }`} />
+                                                <div className={`text-xs font-bold ${
+                                                    isSelected ? 'text-purple-900' : 'text-slate-800'
+                                                }`}>{prov.name}</div>
+                                                <div className={`text-[10px] mt-0.5 ${
+                                                    isSelected ? 'text-purple-700' : 'text-slate-500'
+                                                }`}>{prov.subtitle}</div>
                                                 {isSelected && (
-                                                    <div className="absolute -top-1 -right-1 w-4 h-4 bg-green-500 rounded-full flex items-center justify-center">
+                                                    <div className="absolute -top-1 -right-1 w-5 h-5 bg-green-500 rounded-full flex items-center justify-center animate-pulse">
                                                         <CheckCircle className="w-3 h-3 text-white" />
                                                     </div>
                                                 )}
@@ -2216,21 +2222,21 @@ export default function SearchInterface() {
                             </div>
 
                             {/* API Key Inputs */}
-                            {provider === 'gemini' && (
+                            {provider === 'groq' && (
                                 <div className="space-y-3 animate-in slide-in-from-top duration-300">
                                     <input
                                         type="password"
-                                        value={geminiApiKey}
-                                        onChange={(e) => setGeminiApiKey(e.target.value)}
-                                        placeholder="Gemini API Key"
-                                        className="w-full px-4 py-2.5 bg-white border border-purple-200 rounded-xl text-sm focus:outline-none focus:border-purple-400"
+                                        value={groqApiKey}
+                                        onChange={(e) => setGroqApiKey(e.target.value)}
+                                        placeholder="Enter Groq API Key"
+                                        className="w-full px-4 py-2.5 bg-white border-2 border-orange-200 rounded-xl text-sm focus:outline-none focus:border-orange-400 focus:ring-2 focus:ring-orange-100"
                                     />
                                     <a
 
-                                    href="https://aistudio.google.com/app/apikey"
+                                    href="https://console.groq.com"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="flex items-center justify-center gap-2 text-xs text-indigo-600 hover:text-indigo-700 font-semibold"
+                                    className="flex items-center justify-center gap-2 text-xs text-orange-600 hover:text-orange-700 font-semibold"
                                     >
                                     Get free API key
                                     <ChevronRight className="w-3 h-3" />
@@ -2244,8 +2250,8 @@ export default function SearchInterface() {
                                         type="password"
                                         value={cohereApiKey}
                                         onChange={(e) => setCohereApiKey(e.target.value)}
-                                        placeholder="Cohere API Key"
-                                        className="w-full px-4 py-2.5 bg-white border border-emerald-200 rounded-xl text-sm focus:outline-none focus:border-emerald-400"
+                                        placeholder="Enter Cohere API Key"
+                                        className="w-full px-4 py-2.5 bg-white border-2 border-emerald-200 rounded-xl text-sm focus:outline-none focus:border-emerald-400 focus:ring-2 focus:ring-emerald-100"
                                     />
                                     <a
 
@@ -2260,59 +2266,69 @@ export default function SearchInterface() {
                                 </div>
                                 )}
 
-                            {provider === 'groq-cohere' && (
+                            {provider === 'jina' && (
                                 <div className="space-y-3 animate-in slide-in-from-top duration-300">
                                     <input
                                         type="password"
-                                        value={groqApiKey}
-                                        onChange={(e) => setGroqApiKey(e.target.value)}
-                                        placeholder="Groq API Key"
-                                        className="w-full px-4 py-2.5 bg-white border border-orange-200 rounded-xl text-sm focus:outline-none focus:border-orange-400"
-                                    />
-                                    <input
-                                        type="password"
-                                        value={cohereApiKey}
-                                        onChange={(e) => setCohereApiKey(e.target.value)}
-                                        placeholder="Cohere API Key"
-                                        className="w-full px-4 py-2.5 bg-white border border-orange-200 rounded-xl text-sm focus:outline-none focus:border-orange-400"
-                                    />
-                                    <div className="flex gap-2 text-xs">
-                                        <a href="https://console.groq.com" target="_blank" rel="noopener noreferrer" className="flex-1 text-center py-2 bg-orange-50 border border-orange-200 rounded-lg text-orange-600 hover:text-orange-700 font-semibold">
-                                            Groq Key
-                                        </a>
-                                        <a href="https://dashboard.cohere.com/api-keys" target="_blank" rel="noopener noreferrer" className="flex-1 text-center py-2 bg-orange-50 border border-orange-200 rounded-lg text-orange-600 hover:text-orange-700 font-semibold">
-                                            Cohere Key
-                                        </a>
-                                    </div>
-                                </div>
-                            )}
-
-                            {provider === 'cohere-rerank' && (
-                                <div className="space-y-3 animate-in slide-in-from-top duration-300">
-                                    <input
-                                        type="password"
-                                        value={cohereApiKey}
-                                        onChange={(e) => setCohereApiKey(e.target.value)}
-                                        placeholder="Cohere API Key"
-                                        className="w-full px-4 py-2.5 bg-white border border-violet-200 rounded-xl text-sm focus:outline-none focus:border-violet-400"
+                                        value={jinaApiKey}
+                                        onChange={(e) => setJinaApiKey(e.target.value)}
+                                        placeholder="Enter Jina API Key"
+                                        className="w-full px-4 py-2.5 bg-white border-2 border-blue-200 rounded-xl text-sm focus:outline-none focus:border-blue-400 focus:ring-2 focus:ring-blue-100"
                                     />
                                     <a
-                                    href="https://dashboard.cohere.com/api-keys"
+
+                                    href="https://jina.ai"
                                     target="_blank"
                                     rel="noopener noreferrer"
-                                    className="flex items-center justify-center gap-2 text-xs text-violet-600 hover:text-violet-700 font-semibold"
+                                    className="flex items-center justify-center gap-2 text-xs text-blue-600 hover:text-blue-700 font-semibold"
                                     >
                                     Get free API key
                                     <ChevronRight className="w-3 h-3" />
                                 </a>
-                                <div className="p-3 bg-violet-50 border border-violet-200 rounded-xl">
-                                <p className="text-xs text-violet-700 font-semibold">2-Stage Retrieval for Best Results</p>
-                                </div>
                                 </div>
                                 )}
+
+                            {provider === 'openai-cohere' && (
+                                <div className="space-y-3 animate-in slide-in-from-top duration-300">
+                                    <input
+                                        type="password"
+                                        value={openaiApiKey}
+                                        onChange={(e) => setOpenaiApiKey(e.target.value)}
+                                        placeholder="OpenAI API Key"
+                                        className="w-full px-4 py-2.5 bg-white border-2 border-violet-200 rounded-xl text-sm focus:outline-none focus:border-violet-400 focus:ring-2 focus:ring-violet-100"
+                                    />
+                                    <input
+                                        type="password"
+                                        value={cohereApiKey}
+                                        onChange={(e) => setCohereApiKey(e.target.value)}
+                                        placeholder="Cohere API Key"
+                                        className="w-full px-4 py-2.5 bg-white border-2 border-violet-200 rounded-xl text-sm focus:outline-none focus:border-violet-400 focus:ring-2 focus:ring-violet-100"
+                                    />
+                                    <div className="flex gap-2 text-xs">
+                                        <a href="https://platform.openai.com/api-keys" target="_blank" rel="noopener noreferrer" className="flex-1 text-center py-2 bg-violet-50 border border-violet-200 rounded-lg text-violet-600 hover:text-violet-700 font-semibold">
+                                            OpenAI Key
+                                        </a>
+                                        <a href="https://dashboard.cohere.com/api-keys" target="_blank" rel="noopener noreferrer" className="flex-1 text-center py-2 bg-violet-50 border border-violet-200 rounded-lg text-violet-600 hover:text-violet-700 font-semibold">
+                                            Cohere Key
+                                        </a>
+                                    </div>
+                                    <div className="p-3 bg-violet-50 border border-violet-200 rounded-xl">
+                                        <p className="text-xs text-violet-700 font-semibold">
+                                            OpenAI embeddings + Cohere rerank = Best results
+                                        </p>
+                                    </div>
+                                </div>
+                            )}
+
+                            <div className="mt-4 p-3 bg-indigo-50 border border-indigo-200 rounded-xl">
+                                <p className="text-xs text-indigo-700 font-bold flex items-center justify-between">
+                                    <span>Active: {getProviderDisplayName()}</span>
+                                    <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
+                                </p>
+                            </div>
                         </div>
 
-                        {/* Quick Stats */}
+                        {/* System Status */}
                         <div className="glassmorphism border border-purple-200 rounded-3xl p-6 shadow-xl">
                             <h3 className="text-lg font-bold text-slate-800 mb-5 flex items-center gap-2">
                                 <Database className="w-5 h-5 text-indigo-600" />
@@ -2348,18 +2364,6 @@ export default function SearchInterface() {
                                         <div className={`w-3 h-3 rounded-full ${systemStatusType === 'success' ? 'bg-emerald-500' : 'bg-red-500'} animate-ping`}></div>
                                     </div>
                                 </div>
-
-                                <div className="flex items-center justify-between p-3 rounded-xl bg-gradient-to-r from-blue-50 to-indigo-50 border border-indigo-100">
-                                    <div className="flex items-center gap-3">
-                                        <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-100 to-indigo-100 flex items-center justify-center">
-                                            <FileText className="w-5 h-5 text-blue-600" />
-                                        </div>
-                                        <div>
-                                            <p className="text-xs text-slate-500 font-semibold">Documents</p>
-                                            {/*<p className="text-slate-800 font-bold text-sm">{documents.length} indexed</p>*/}
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
 
@@ -2373,23 +2377,22 @@ export default function SearchInterface() {
                             <div className="space-y-3 text-sm text-slate-600 relative z-10">
                                 <div className="flex items-start gap-3">
                                     <div className="w-1.5 h-1.5 bg-amber-500 rounded-full mt-2"></div>
-                                    <p className="font-medium">Use specific keywords for better semantic matching</p>
+                                    <p className="font-medium">Groq is 10x faster than Ollama</p>
                                 </div>
                                 <div className="flex items-start gap-3">
                                     <div className="w-1.5 h-1.5 bg-amber-500 rounded-full mt-2"></div>
-                                    <p className="font-medium">Rerank option gives 30-50% better results</p>
+                                    <p className="font-medium">OpenAI+Cohere hybrid gives best accuracy</p>
                                 </div>
                                 <div className="flex items-start gap-3">
                                     <div className="w-1.5 h-1.5 bg-amber-500 rounded-full mt-2"></div>
-                                    <p className="font-medium">Groq provider is 10x faster than others</p>
+                                    <p className="font-medium">Use specific keywords for better matching</p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    {/* Main Content Area - Keep rest of the component the same */}
+                    {/* Main Content Area */}
                     <div className="lg:col-span-2 space-y-6">
-                        {/* Search Tab */}
                         {activeTab === 'search' && (
                             <div className="glassmorphism border border-purple-200 rounded-3xl p-8 shadow-xl">
                                 <div className="flex items-center gap-4 mb-8">
@@ -2437,7 +2440,6 @@ export default function SearchInterface() {
                                         </button>
                                     </div>
 
-                                    {/* Suggestions */}
                                     <div>
                                         <p className="text-sm text-slate-600 font-bold mb-4">Suggested questions:</p>
                                         <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
@@ -2460,94 +2462,9 @@ export default function SearchInterface() {
                             </div>
                         )}
 
-                        {/* Upload Tab */}
-                        {activeTab === 'upload' && (
-                            <div className="glassmorphism border border-purple-200 rounded-3xl p-8 shadow-xl">
-                                <div className="flex items-center gap-4 mb-8">
-                                    <div className="relative">
-                                        <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-2xl blur-lg opacity-60"></div>
-                                        <div className="relative w-14 h-14 rounded-2xl bg-gradient-to-br from-blue-500 to-cyan-600 flex items-center justify-center shadow-lg">
-                                            <Upload className="w-7 h-7 text-white" />
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <h2 className="text-2xl font-bold text-slate-800">Upload Documents</h2>
-                                        <p className="text-slate-600 mt-1 font-medium">PDF, DOCX, or TXT files supported</p>
-                                    </div>
-                                </div>
-
-                                <label className="block cursor-pointer group">
-                                    <div className="relative border-3 border-dashed border-gray-300 group-hover:border-indigo-400 rounded-3xl p-16 text-center cursor-pointer transition-all duration-300 overflow-hidden bg-gradient-to-br from-indigo-50/50 via-purple-50/50 to-pink-50/50 group-hover:from-indigo-50 group-hover:via-purple-50 group-hover:to-pink-50">
-                                        <input
-                                            ref={fileInputRef}
-                                            type="file"
-                                            accept=".pdf,.docx,.txt,.doc"
-                                            onChange={handleFileUpload}
-                                            disabled={uploading}
-                                            className="hidden"
-                                        />
-                                        <div className="relative flex flex-col items-center gap-5">
-                                            <div className="relative">
-                                                <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-3xl blur-xl opacity-50 group-hover:opacity-100 transition-opacity"></div>
-                                                <div className="relative w-20 h-20 rounded-3xl bg-gradient-to-br from-blue-500 to-cyan-600 flex items-center justify-center group-hover:scale-110 transition-transform shadow-xl">
-                                                    <FileUp className="w-10 h-10 text-white" />
-                                                </div>
-                                            </div>
-                                            <div>
-                                                <p className="text-slate-800 font-bold text-xl mb-2">Drop files here or click to browse</p>
-                                                <p className="text-slate-500 font-medium">PDF, DOCX, TXT • Max 10MB</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </label>
-
-                                {uploading && (
-                                    <div className="mt-6 p-5 bg-blue-50 border border-blue-200 rounded-2xl">
-                                        <div className="flex items-center gap-4">
-                                            <Loader2 className="w-6 h-6 animate-spin text-blue-600" />
-                                            <div className="flex-1">
-                                                <p className="text-blue-700 font-bold">Processing document...</p>
-                                                <p className="text-blue-600 text-sm mt-1">Analyzing and indexing content</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                )}
-
-                                {uploadStatus && !uploading && (
-                                    <div className={`mt-6 p-5 rounded-2xl border-2 ${
-                                        uploadStatus.includes('success')
-                                            ? 'bg-emerald-50 border-emerald-300'
-                                            : 'bg-red-50 border-red-300'
-                                    }`}>
-                                        <div className="flex items-start gap-4">
-                                            {uploadStatus.includes('success')
-                                                ? <CheckCircle className="w-6 h-6 text-emerald-600 flex-shrink-0 mt-0.5" />
-                                                : <XCircle className="w-6 h-6 text-red-600 flex-shrink-0 mt-0.5" />
-                                            }
-                                            <div className="flex-1">
-                                                <p className={`font-bold text-lg ${uploadStatus.includes('success') ? 'text-emerald-700' : 'text-red-700'}`}>
-                                                    {uploadStatus}
-                                                </p>
-                                                {uploadedFileName && (
-                                                    <p className="text-sm text-emerald-600 mt-2 flex items-center gap-2 font-medium">
-                                                        <FileText className="w-4 h-4" />
-                                                        {uploadedFileName}
-                                                    </p>
-                                                )}
-                                            </div>
-                                        </div>
-                                    </div>
-                                )}
-                            </div>
-                        )}
-
-                        {/* Documents, History, and Answer Display sections remain the same as before */}
-                        {/* ... (keeping the rest of the component identical) ... */}
-
-                        {/* Answer Display with Rerank Stats */}
+                        {/* Answer Display */}
                         {(answer || selectedHistory) && (
                             <div className="glassmorphism border border-purple-200 rounded-3xl p-8 shadow-xl space-y-8 animate-in slide-in-from-bottom duration-500">
-                                {/* Show rerank stats if available */}
                                 {answer?.stats && (
                                     <div className="p-4 bg-violet-50 border border-violet-200 rounded-2xl">
                                         <div className="flex items-center gap-4 text-sm">
@@ -2557,7 +2474,6 @@ export default function SearchInterface() {
                                     </div>
                                 )}
 
-                                {/* Question */}
                                 <div className="flex items-start gap-4">
                                     <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-100 to-cyan-100 flex items-center justify-center flex-shrink-0">
                                         <User className="w-5 h-5 text-blue-600" />
@@ -2574,7 +2490,6 @@ export default function SearchInterface() {
                                     </div>
                                 </div>
 
-                                {/* Answer */}
                                 <div className="flex items-start gap-4">
                                     <div className="relative flex-shrink-0">
                                         <div className="absolute inset-0 bg-gradient-to-r from-purple-400 to-pink-400 rounded-xl blur-lg opacity-50"></div>
@@ -2583,51 +2498,96 @@ export default function SearchInterface() {
                                         </div>
                                     </div>
                                     <div className="flex-1 space-y-6">
-                                        <div className="prose prose-slate max-w-none">
-                                            <p className="text-slate-700 leading-relaxed text-lg font-medium">
-                                                {selectedHistory ? selectedHistory.answer : answer?.answer}
-                                            </p>
-                                        </div>
+                                        {(() => {
+                                            const sources = selectedHistory ? selectedHistory.sources : answer?.sources || [];
 
-                                        {/* Sources with Rerank Scores */}
-                                        {((selectedHistory?.sources && selectedHistory.sources.length > 0) ||
-                                            (answer?.sources && answer.sources.length > 0)) && (
-                                            <div className="border-t border-gray-200 pt-6 mt-6">
-                                                <div className="flex items-center gap-2 mb-5">
-                                                    <Database className="w-5 h-5 text-indigo-600" />
-                                                    <span className="text-indigo-700 font-bold text-lg">
-                                                        Sources ({(selectedHistory ? selectedHistory.sources : answer!.sources)!.length})
-                                                    </span>
-                                                </div>
-                                                <div className="grid gap-4">
-                                                    {(selectedHistory ? selectedHistory.sources : answer!.sources)!.map((source, idx) => (
-                                                        <div key={idx} className="group p-5 bg-white rounded-2xl border border-gray-200 hover:border-indigo-300 transition-all hover:shadow-md">
-                                                            <div className="flex items-start justify-between gap-4 mb-3">
-                                                                <span className="text-slate-800 font-bold text-sm flex items-center gap-2">
-                                                                    <FileText className="w-4 h-4 text-indigo-600" />
-                                                                    {source.document}
-                                                                </span>
-                                                                <div className="flex gap-2">
+                                            if (sources.length === 0) {
+                                                return (
+                                                    <p className="text-slate-700 leading-relaxed text-lg font-medium">
+                                                        {selectedHistory ? selectedHistory.answer : answer?.answer}
+                                                    </p>
+                                                );
+                                            }
+
+                                            return (
+                                                <>
+                                                    <p className="text-slate-700 leading-relaxed text-lg font-medium mb-6">
+                                                        Here are the top {sources.length} candidates matching your search:
+                                                    </p>
+
+                                                    <div className="grid gap-4">
+                                                        {sources.map((source, idx) => {
+                                                            const percentage = source.similarity
+                                                                ? (parseFloat(source.similarity) * 100).toFixed(1)
+                                                                : '0.0';
+
+                                                            return (
+                                                                <div
+                                                                    key={idx}
+                                                                    className="group relative overflow-hidden bg-gradient-to-br from-white to-purple-50 rounded-2xl border-2 border-purple-200 hover:border-purple-400 transition-all hover:shadow-xl p-6"
+                                                                >
+                                                                    <div className="flex items-start justify-between mb-4">
+                                                                        <div className="flex items-center gap-3">
+                                                                            <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-purple-500 to-pink-600 flex items-center justify-center text-white font-bold text-lg shadow-lg">
+                                                                                #{idx + 1}
+                                                                            </div>
+                                                                            <div>
+                                                                                <h3 className="text-lg font-bold text-slate-800 flex items-center gap-2">
+                                                                                    <FileText className="w-5 h-5 text-purple-600" />
+                                                                                    {source.document}
+                                                                                </h3>
+                                                                                <p className="text-xs text-slate-500 font-semibold mt-1">
+                                                                                    Candidate Profile
+                                                                                </p>
+                                                                            </div>
+                                                                        </div>
+
+                                                                        <div className="relative">
+                                                                            <div className="absolute inset-0 bg-gradient-to-r from-emerald-400 to-green-500 rounded-xl blur-md opacity-60"></div>
+                                                                            <div className="relative px-4 py-2 bg-gradient-to-r from-emerald-500 to-green-600 rounded-xl shadow-lg">
+                                                                                <div className="text-center">
+                                                                                    <div className="text-2xl font-black text-white leading-none">
+                                                                                        {percentage}%
+                                                                                    </div>
+                                                                                    <div className="text-[10px] text-emerald-100 font-bold uppercase tracking-wide">
+                                                                                        Match
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
                                                                     {source.rerank_score && (
-                                                                        <span className="px-3 py-1.5 bg-gradient-to-r from-violet-100 to-purple-100 border border-violet-200 text-violet-700 rounded-xl text-xs font-bold flex-shrink-0">
-                                                                            Rerank: {source.rerank_score}
-                                                                        </span>
+                                                                        <div className="mb-4 flex gap-2">
+                                                                            <span className="px-3 py-1 bg-violet-100 border border-violet-300 text-violet-700 rounded-lg text-xs font-bold">
+                                                                                Rerank: {(parseFloat(source.rerank_score) * 100).toFixed(1)}%
+                                                                            </span>
+                                                                        </div>
                                                                     )}
-                                                                    {source.similarity && (
-                                                                        <span className="px-3 py-1.5 bg-gradient-to-r from-indigo-100 to-purple-100 border border-indigo-200 text-indigo-700 rounded-xl text-xs font-bold flex-shrink-0">
-                                                                            {source.similarity}
-                                                                        </span>
+
+                                                                    <div className="w-full h-2 bg-gray-200 rounded-full mb-4 overflow-hidden">
+                                                                        <div
+                                                                            className="h-full bg-gradient-to-r from-purple-500 to-pink-600 rounded-full transition-all duration-1000"
+                                                                            style={{ width: `${percentage}%` }}
+                                                                        ></div>
+                                                                    </div>
+
+                                                                    {source.snippet && (
+                                                                        <div className="space-y-2">
+                                                                            <p className="text-sm text-slate-600 leading-relaxed font-medium">
+                                                                                {source.snippet}
+                                                                            </p>
+                                                                        </div>
                                                                     )}
+
+                                                                    <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-purple-200 to-transparent rounded-full blur-3xl opacity-20 -z-10"></div>
                                                                 </div>
-                                                            </div>
-                                                            {source.snippet && (
-                                                                <p className="text-slate-600 text-sm leading-relaxed font-medium">{source.snippet}</p>
-                                                            )}
-                                                        </div>
-                                                    ))}
-                                                </div>
-                                            </div>
-                                        )}
+                                                            );
+                                                        })}
+                                                    </div>
+                                                </>
+                                            );
+                                        })()}
                                     </div>
                                 </div>
                                 <div ref={answerEndRef} />

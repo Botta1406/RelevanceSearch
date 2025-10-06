@@ -1,3 +1,5 @@
+import { AIClient } from './aiClient.interface';
+
 interface OllamaResponse {
     response: string;
     done: boolean;
@@ -20,7 +22,7 @@ interface OllamaModel {
     };
 }
 
-export class OllamaClient {
+export class OllamaClient implements AIClient{
     private baseUrl: string;
 
     constructor(baseUrl: string = 'http://localhost:11434') {
@@ -168,24 +170,20 @@ export class OllamaClient {
         const models = await this.getAvailableModels();
         const modelNames = models.map(m => m.name);
 
-        const generationModels = ['llama3.2', 'llama3.1', 'llama3', 'llama2', 'mistral', 'phi3'];
-
-        for (const preferredModel of generationModels) {
-            const foundModel = modelNames.find(model =>
-                model.includes(preferredModel) &&
-                !model.includes('embed')
-            );
-            if (foundModel) {
-                return foundModel;
-            }
+        // Prefer the 3B model for stability
+        const preferredModel = modelNames.find(m => m.includes('llama3.2:3b'));
+        if (preferredModel) {
+            return preferredModel;
         }
 
-        const nonEmbeddingModel = modelNames.find(model => !model.includes('embed'));
-        if (nonEmbeddingModel) {
-            return nonEmbeddingModel;
+        // Fallback logic...
+        const generationModels = ['llama3.2', 'llama3', 'llama2'];
+        for (const preferred of generationModels) {
+            const found = modelNames.find(m => m.includes(preferred) && !m.includes('embed'));
+            if (found) return found;
         }
 
-        throw new Error('No text generation models available. Please run: ollama pull llama3.2');
+        throw new Error('No generation models available');
     }
 
     // Get embedding size for a specific model

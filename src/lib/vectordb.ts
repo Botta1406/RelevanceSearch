@@ -30,36 +30,33 @@ export class QdrantVectorDatabase {
         this.client = new QdrantClient({
             url: process.env.QDRANT_URL || 'http://localhost:6333',
         });
-        this.collectionName = process.env.QDRANT_COLLECTION_NAME || 'chatbot';
+        this.collectionName = process.env.QDRANT_COLLECTION_NAME || 'cvs';
     }
 
     async initialize(embeddingSize?: number): Promise<void> {
         try {
-            console.log('🔗 Initializing Qdrant connection...');
+            console.log('Initializing Qdrant connection...');
 
-            // Test connection first
             const collections = await this.client.getCollections();
-            console.log('✅ Connected to Qdrant successfully');
+            console.log('Connected to Qdrant successfully');
 
             const collectionExists = collections.collections.some(
                 (collection) => collection.name === this.collectionName
             );
 
             if (collectionExists) {
-                console.log(`✅ Collection "${this.collectionName}" exists`);
-
-                // Delete and recreate collection to ensure proper format
-                console.log('🔄 Recreating collection to ensure proper configuration...');
-                await this.client.deleteCollection(this.collectionName);
-                await new Promise(resolve => setTimeout(resolve, 1000)); // Wait for deletion
+                console.log(`Collection "${this.collectionName}" exists`);
+                // DON'T delete existing collection - just set vector size
+                const vectorSize = embeddingSize || 768;
+                this.vectorSize = vectorSize;
+                return;
             }
 
-            // Create collection with proper configuration
+            // Only create if doesn't exist
             const vectorSize = embeddingSize || 768;
             this.vectorSize = vectorSize;
 
-            console.log(`🔧 Creating collection "${this.collectionName}" with vector size: ${vectorSize}`);
-
+            console.log(`Creating collection "${this.collectionName}" with vector size: ${vectorSize}`);
             await this.client.createCollection(this.collectionName, {
                 vectors: {
                     size: vectorSize,
@@ -67,10 +64,10 @@ export class QdrantVectorDatabase {
                 },
             });
 
-            console.log(`✅ Collection created successfully`);
+            console.log('Collection created successfully');
 
         } catch (error) {
-            console.error('❌ Error initializing Qdrant:', error);
+            console.error('Error initializing Qdrant:', error);
             throw new Error(`Failed to connect to Qdrant. Make sure Qdrant is running on ${process.env.QDRANT_URL || 'http://localhost:6333'}. Error: ${error}`);
         }
     }
