@@ -1,0 +1,72 @@
+**Emily J. Wilson**
+
+**Contact Information:**
+
+* Email: [emily.j.wilson@email.com](mailto:emily.j.wilson@email.com)
+* Phone: +1 (123) 456-7890
+* LinkedIn: linkedin.com/in/emilyjwilson
+
+**Professional Summary:**
+
+Highly motivated and detail-oriented software engineer with a passion for creating seamless user experiences. Proficient in designing, developing, and testing high-performance applications using modern technologies. Skilled in collaborating with cross-functional teams to deliver projects on time and within budget.
+
+**Technical Skills:**
+
+* Programming languages:
+ + Swift (iOS)
+ + Kotlin (Android)
+ + JavaScript (React Native)
+* Front-end frameworks:
+ + React
+ + Expo
+* Back-end frameworks:
+ + Java
+ + Room (Android)
+* Database management:
+ + Core Data (iOS)
+ + Realm (Android)
+* UI/UX design tools:
+ + Xcode (iOS)
+ + Android Studio (Android)
+ + Sketch
+* Agile methodologies:
+ + Scrum
+* Version control systems:
+ + Git
+
+**Work Experience:**
+
+### Senior Software Engineer, ABC Corporation (2022 - Present)
+
+* Led the development of multiple features for a flagship iOS app, resulting in a 25% increase in user engagement.
+* Collaborated with design team to implement UI/UX enhancements, ensuring seamless and intuitive user experience.
+* Conducted code reviews and ensured adherence to coding standards and best practices.
+
+### iOS Engineer, DEF Startups (2020 - 2022)
+
+* Designed, developed, and tested multiple features for iOS apps using Swift and Xcode.
+* Worked closely with QA team to identify and resolve bugs, ensuring high-quality product release.
+* Participated in code reviews and contributed to the improvement of the team's coding standards.
+
+### Junior Software Engineer, GHI Agency (2019 - 2020)
+
+* Assisted in the development of multiple features for iOS apps using Swift and Xcode.
+* Implemented Core Data and Room for data storage and management.
+* Participated in daily stand-up meetings with cross-functional teams to discuss project progress and challenges.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2019)
+
+**Projects:**
+
+* **Weather Forecast App**: A feature-rich iOS app that displays current weather conditions and forecasts for multiple locations. Built using Swift and Xcode.
+* **Todo List App**: A simple yet effective to-do list app built using React Native and Expo.
+* **Chatbot**: A conversational AI chatbot developed using Kotlin and Android Studio.
+
+**Certifications:**
+
+* Certified Scrum Master (CSM)
+* Certified Java Developer (OCPJP)
+
+Note: This CV/resume is a sample and should be tailored to your specific experience and qualifications.

@@ -1,0 +1,61 @@
+**Ethan Lee**
+
+**Professional Summary:**
+
+Highly skilled and passionate software engineer with 3 years of experience in building scalable, efficient, and user-friendly applications for various platforms. Proven track record of delivering high-quality solutions on time, working collaboratively with cross-functional teams to drive business growth and innovation.
+
+**Technical Skills:**
+
+* Programming languages:
+ + Java (Android)
+ + Kotlin (Android)
+ + Swift (iOS)
+ + JavaScript (React Native)
+* Frameworks and libraries:
+ + React Native
+ + Redux
+ + Expo
+ + Flutter
+ + Android Jetpack Compose
+ + UIKit (iOS)
+ + SwiftUI (iOS)
+* Databases:
+ + Room (Android)
+ + Core Data (iOS)
+* Agile methodologies:
+ + Scrum
+ + Kanban
+
+**Work Experience:**
+
+1. **Senior Software Engineer, XYZ Corporation (2020-Present)**
+ * Led the development of multiple features for a cross-platform application, resulting in significant user engagement and revenue growth.
+ * Collaborated with designers to implement UI/UX designs, ensuring seamless user experience across various platforms.
+ * Mentored junior engineers, providing guidance on best practices and coding standards.
+
+2. **Software Engineer, ABC Startups (2018-2020)**
+ * Contributed to the development of a React Native application for a leading e-commerce platform, achieving a 30% increase in sales within six months.
+ * Implemented Redux state management to ensure efficient and scalable codebase.
+ * Participated in code reviews, providing constructive feedback to improve overall quality.
+
+3. **Intern, DEF Agency (Summer 2017)**
+ * Assisted in the development of a Flutter application for a local business, resulting in a significant increase in customer engagement.
+ * Gained hands-on experience with Android Jetpack Compose and implemented it successfully in the project.
+ * Worked closely with designers to implement UI/UX designs, ensuring a seamless user experience.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, [University Name] (2017)
+
+**Projects:**
+
+1. **React Native Weather App**: A React Native application that fetches weather data from OpenWeatherMap API and displays it in a visually appealing manner.
+2. **Flutter Todo List App**: A Flutter application that allows users to create, edit, and delete todo list items, utilizing Firebase Realtime Database for backend functionality.
+3. **Android Jetpack Compose Calculator**: An Android application built using Android Jetpack Compose, providing basic arithmetic operations and displaying results in a visually appealing way.
+
+**Certifications:**
+
+* Flutter Fundamentals (Flutter.org)
+* React Native Essentials (ReactNative.dev)
+
+Note: This CV is designed to be realistic and concise, highlighting the candidate's technical skills, experience, and achievements. The language used is natural and avoids using the words "mobile" or "developer".

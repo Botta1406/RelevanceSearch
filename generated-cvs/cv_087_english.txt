@@ -1,0 +1,71 @@
+**Alex Chen**
+**Contact Information:**
+
+* Email: [alex.chen@email.com](mailto:alex.chen@email.com)
+* Phone: +1 (123) 456-7890
+* LinkedIn: linkedin.com/in/alexchen
+
+**Professional Summary:**
+Highly motivated and detail-oriented professional with 2 years of experience in designing, building, and maintaining complex software applications. Skilled in a range of technologies that enable seamless user experiences across various platforms.
+
+**Technical Skills:**
+
+* Programming languages:
+ + Java/Kotlin
+ + JavaScript/TypeScript
+ + Swift/Objective-C
+* Frameworks & Libraries:
+ + Flutter/Dart
+ + React Native/JavaScript
+ + Expo
+ + Jetpack Compose
+ + Redux
+ + Core Data
+* Databases:
+ + Room
+ + Realm
+ + Firebase
+* UI/UX Tools:
+ + UIKit/SwiftUI (iOS)
+ + Android Studio (Android)
+ + Material-UI (web)
+* Agile Methodologies:
+ + Scrum
+ + Kanban
+
+**Work Experience:**
+
+### Senior Software Engineer, ABC Corp. (2022 - Present)
+
+* Led a team of 3 engineers to develop and deploy multiple applications using Flutter/Dart.
+* Collaborated with designers to create visually appealing UI/UX designs that met business requirements.
+* Implemented complex features such as authentication, authorization, and data storage using Room and Firebase.
+
+### Software Engineer, DEF Startups (2021 - 2022)
+
+* Contributed to the development of a React Native application for a popular e-commerce platform.
+* Worked closely with the design team to implement responsive UI components using Redux and Expo.
+* Resolved issues and optimized performance in the production environment.
+
+### Intern, GHI Agency (Summer 2020)
+
+* Assisted senior engineers in developing a Flutter application for iOS and Android platforms.
+* Learned about Core Data and UIKit/SwiftUI through hands-on projects and mentorship.
+* Participated in code reviews and ensured adherence to coding standards.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2019 - 2021)
+
+**Projects:**
+
+1. **Weather App**: A Flutter application that retrieves weather data from OpenWeatherMap API and displays it on a map using Google Maps SDK.
+2. **Todo List**: A React Native application that allows users to create, edit, and delete todo items using Redux and Expo.
+3. **Social Media Clone**: A Flutter application that mimics the social media functionality of popular platforms using Core Data and Firebase.
+
+**Certifications:**
+
+* Certified Flutter Developer, Google Developers (2021)
+* Certified React Native Developer, Facebook Developers (2022)
+
+Note: This is just a sample CV and can be modified to fit your specific needs and experiences. Remember to tailor your CV to the job you're applying for, and highlight your unique strengths and skills!

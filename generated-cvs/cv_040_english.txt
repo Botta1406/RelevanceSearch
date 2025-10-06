@@ -1,0 +1,56 @@
+**Ethan Thompson**
+
+**Contact Information:**
+
+* Email: [ethan.thompson@email.com](mailto:ethan.thompson@email.com)
+* Phone: +1234567890
+* LinkedIn: linkedin.com/in/ethanthompsonto
+
+**Professional Summary:**
+Highly skilled backend expert with 3 years of experience in designing, building, and maintaining scalable, efficient, and secure web applications using Python and Django. Proven track record of delivering high-quality solutions that meet client needs while exceeding expectations.
+
+**Technical Skills:**
+
+* Programming languages: Python, JavaScript
+* Frameworks: Django, React
+* Databases: PostgreSQL, MySQL
+* Operating Systems: Windows, Linux
+* Agile methodologies: Scrum, Kanban
+* Version control: Git, SVN
+
+**Work Experience:**
+
+### Senior Backend Engineer, ABC Corporation (2020 - Present)
+
+* Designed and implemented multiple features for a scalable e-commerce platform using Django and Python.
+* Collaborated with cross-functional teams to ensure timely delivery of projects while maintaining high-quality standards.
+* Developed and maintained a comprehensive testing suite to ensure application stability and performance.
+
+### Backend Engineer, DEF Startups (2018 - 2020)
+
+* Built the backend infrastructure for a web-based project management tool using Django and Python.
+* Worked with designers to implement responsive UI components that adapted to various screen sizes and devices.
+* Implemented authentication and authorization mechanisms to ensure secure access to sensitive data.
+
+### Junior Backend Engineer, GHI Agency (2016 - 2018)
+
+* Assisted in the development of a web-based application using Django and Python for a non-profit organization.
+* Contributed to the implementation of a content management system that allowed users to manage their own content.
+* Participated in code reviews and contributed to improving the overall code quality.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2016)
+
+**Projects:**
+
+1. **E-commerce Platform:** Designed and implemented a scalable e-commerce platform using Django, Python, and PostgreSQL. Implemented features such as user authentication, order management, and product reviews.
+2. **Project Management Tool:** Built the backend infrastructure for a web-based project management tool using Django, Python, and MySQL. Implemented features such as task management, team collaboration, and reporting.
+3. **Blog Application:** Developed a blog application using Django, Python, and PostgreSQL. Implemented features such as user authentication, content management, and commenting system.
+
+**Certifications/Awards:**
+
+* Certified Scrum Master (CSM)
+* Winner of the XYZ University Hackathon (2016)
+
+Note: This is just an example CV/resume and should be tailored to your specific experience and qualifications.

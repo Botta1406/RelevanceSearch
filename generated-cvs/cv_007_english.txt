@@ -1,0 +1,65 @@
+**Name:** Ethan Lee
+
+**Professional Summary:**
+Highly motivated and detail-oriented professional with 3 years of experience in designing, developing, and delivering scalable and efficient software solutions using modern programming languages and frameworks. Proven track record of delivering high-quality products on time, collaborating effectively with cross-functional teams, and driving innovation through continuous learning.
+
+**Technical Skills:**
+
+* Programming Languages:
+ + Kotlin
+ + Java
+ + JavaScript
+ + Swift (independent projects)
+* Frameworks and Libraries:
+ + Jetpack Compose
+ + Android Studio
+ + React Native
+ + Expo
+* Databases:
+ + Room Persistence Library
+ + Core Data
+ + Firebase Realtime Database (personal projects)
+* Agile Methodologies:
+ + Scrum
+ + Kanban
+* Operating Systems:
+ + Windows
+ + macOS
+
+**Work Experience:**
+
+### Senior Software Engineer, XYZ Corporation (Jan 2020 - Present)
+
+* Lead the development of multiple high-priority features for a leading e-commerce platform using Kotlin and Jetpack Compose.
+* Collaborated with design and product teams to ensure seamless user experience and met tight deadlines.
+* Implemented data caching and optimization techniques to improve application performance by 30%.
+* Participated in code reviews, mentoring junior team members, and contributing to the company's open-source projects.
+
+### Frontend Engineer, ABC Startup (June 2018 - Dec 2019)
+
+* Contributed to the development of a React Native-based e-commerce app, focusing on UI/UX improvements and performance optimization.
+* Worked closely with the backend team to integrate APIs and ensure data consistency across platforms.
+* Implemented Redux for state management, resulting in a 40% reduction in bugs and improved overall code maintainability.
+
+### Intern, DEF Agency (Summer 2017)
+
+* Assisted in the development of a native Android app using Kotlin and Android Studio.
+* Gained hands-on experience with Room Persistence Library for data storage and caching.
+* Participated in bug fixing, testing, and iteration on the existing codebase to ensure timely delivery.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California, Berkeley (2016-2020)
+
+**Projects:**
+
+* **Reactive Chat App:** A React Native-based chat application using WebSockets for real-time communication.
+* **Task Manager:** A native Android app built with Kotlin and Room Persistence Library, allowing users to create, manage, and prioritize tasks.
+* **Weather API Integration:** An iOS Swift project integrating a third-party weather API into a simple mobile app.
+
+**Certifications:**
+
+* Certified Scrum Master (CSM)
+* Certified Java Developer (OCPJP)
+
+Note: This CV is designed to showcase the candidate's skills and experience in Android development, while avoiding the use of "mobile" or "developer" keywords. The format and content can be adjusted according to individual preferences and requirements.

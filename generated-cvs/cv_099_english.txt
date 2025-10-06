@@ -1,0 +1,51 @@
+**Ethan Thompson**
+
+**Cloud Architect - AWS**
+
+**Professional Summary:**
+Results-driven Cloud Architect with 3 years of experience in designing, implementing, and managing scalable cloud architectures on Amazon Web Services (AWS). Proven track record of delivering high-quality solutions that meet the evolving needs of organizations. Skilled in cloud migration, security, and cost optimization.
+
+**Technical Skills:**
+
+* Operating Systems: Windows, Linux, macOS
+* Cloud Platforms: AWS (EC2, S3, Lambda, IAM), Azure
+* Containerization: Docker, Kubernetes
+* Virtualization: VMware, Hyper-V
+* Scripting Languages: PowerShell, Python, Bash
+* Database Management: MySQL, PostgreSQL, MongoDB
+* Networking: TCP/IP, HTTP, DNS, Load Balancing
+
+**Work Experience:**
+
+**Cloud Architect - AWS**
+ABC Corporation (2022-Present)
+
+* Designed and implemented a scalable cloud architecture on AWS, resulting in 30% cost savings and 40% increased efficiency.
+* Migrated critical applications to the cloud, ensuring minimal disruption to users.
+* Collaborated with cross-functional teams to implement security measures, including IAM roles and encryption.
+
+**Senior Cloud Engineer**
+XYZ Startups (2020-2022)
+
+* Managed a team of cloud engineers, providing guidance on best practices for cloud migration, security, and cost optimization.
+* Implemented a containerized application using Docker and Kubernetes, resulting in 25% improved deployment speed.
+* Configured load balancers and autoscaling groups to ensure high availability and scalability.
+
+**Cloud Engineer - AWS**
+ABC Inc. (2019-2020)
+
+* Designed and implemented cloud infrastructure on AWS, including EC2 instances, S3 storage, and IAM roles.
+* Collaborated with the development team to integrate cloud-based services into existing applications.
+* Implemented security measures, including encryption and access controls.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of Illinois at Urbana-Champaign (2019)
+
+**Projects:**
+
+* **AWS Migration Project:** Migrated a critical application from on-premises infrastructure to AWS, resulting in 50% cost savings and 60% improved performance.
+* **Kubernetes Deployment:** Implemented a containerized application using Docker and Kubernetes, resulting in 30% improved deployment speed.
+* **Cloud Security Audit:** Conducted a security audit of an AWS-based application, identifying vulnerabilities and implementing recommendations for improvement.
+
+Note: I've used Ethan Thompson as the name, but you can change it to any realistic English name. The rest of the content is designed to be a realistic representation of a Cloud Architect with 3 years of experience on AWS.

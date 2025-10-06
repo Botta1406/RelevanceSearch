@@ -1,0 +1,68 @@
+**John David**
+
+**Contact Information:**
+
+* Email: [johndavid@email.com](mailto:johndavid@email.com)
+* Phone: +1234567890
+* LinkedIn: linkedin.com/in/johndavid
+* GitHub: github.com/johndavid
+
+**Professional Summary:**
+Highly skilled backend expert with 3 years of experience in designing, developing, and maintaining scalable, efficient, and secure software systems. Proven track record of delivering high-quality solutions on time, utilizing Python as a primary programming language, backed by Django framework. Strong understanding of database management and expertise in optimizing performance.
+
+**Technical Skills:**
+
+* Programming Languages:
+ + Python
+ + JavaScript (with React)
+* Frameworks:
+ + Django
+ + React
+* Databases:
+ + PostgreSQL
+ + MySQL
+ + MongoDB
+* Operating Systems:
+ + Windows
+ + Linux
+* Agile Methodologies:
+ + Scrum
+* Cloud Platforms:
+ + AWS
+
+**Work Experience:**
+
+### Backend Engineer, ABC Corporation (2020-Present)
+
+* Designed and developed scalable backend systems using Django framework and Python programming language.
+* Collaborated with cross-functional teams to implement new features, ensuring seamless integration with frontend applications.
+* Implemented efficient database management solutions utilizing PostgreSQL and MySQL databases.
+
+### Backend Developer, DEF Startups (2018-2020)
+
+* Contributed to the development of a cloud-based e-commerce platform using Django framework and Python programming language.
+* Conducted unit testing and ensured code quality by utilizing tools such as Pytest.
+* Participated in continuous learning and growth, staying up-to-date with the latest technologies and trends.
+
+### Intern, GHI Agency (Summer 2018)
+
+* Assisted in the development of a web application using Django framework and Python programming language.
+* Helped create database schema designs for various projects, utilizing SQL and PostgreSQL databases.
+* Worked closely with team members to identify and resolve technical issues.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2018)
+
+**Projects:**
+
+1. **E-commerce Platform**: Designed and developed a cloud-based e-commerce platform using Django framework and Python programming language.
+2. **Social Media App**: Built a social media application utilizing React framework and JavaScript programming language.
+3. **Database Optimization Tool**: Created a tool to optimize database performance, utilizing PostgreSQL and MySQL databases.
+
+**Certifications:**
+
+* Certified Scrum Master (CSM)
+* Certified Django Developer
+
+Note: This is just an example CV/resume, you should adjust it according to your own experiences and qualifications.

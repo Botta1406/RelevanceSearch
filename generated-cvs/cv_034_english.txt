@@ -1,0 +1,55 @@
+**Ethan Michael Lee**
+
+**Professional Summary:**
+
+Highly motivated and detail-oriented individual with a strong passion for crafting exceptional user experiences through innovative front-end solutions. Proficient in designing and building scalable, responsive, and maintainable applications using Vue.js. Possesses excellent problem-solving skills, with a keen eye for delivering high-quality results under tight deadlines.
+
+**Technical Skills:**
+
+* Front-end framework: Vue.js
+* State management: Vuex
+* Build tools: Webpack, Rollup
+* CSS preprocessors: Sass, Less
+* JavaScript libraries: jQuery, Lodash
+* UI component libraries: Material-UI, Bootstrap
+* Version control: Git, SVN
+
+**Work Experience:**
+
+**Senior Front-end Specialist**
+CodeForces Ltd. (2022 - Present)
+
+* Led the development of multiple high-profile projects for clients across various industries
+* Collaborated with cross-functional teams to design and implement new features and enhancements
+* Utilized Vue.js to build responsive and scalable applications, resulting in a 30% increase in client satisfaction
+
+**Front-end Engineer**
+Apexsoft Inc. (2020 - 2022)
+
+* Contributed to the development of multiple enterprise-level applications using Vue.js
+* Implemented complex front-end features, including data visualization and real-time updates
+* Worked closely with QA teams to ensure seamless testing and deployment processes
+
+**Junior Front-end Specialist**
+NovaTech Corp. (2019 - 2020)
+
+* Assisted in the design and implementation of new features for existing applications
+* Learned and implemented best practices for front-end development, including responsive design and accessibility guidelines
+* Participated in code reviews and ensured adherence to coding standards
+
+**Education:**
+
+* Bachelor of Science in Computer Science, University of California, Los Angeles (2019)
+
+**Projects:**
+
+* **E-commerce Platform:** Built a responsive e-commerce platform using Vue.js, incorporating features like product filtering, search functionality, and real-time updates.
+* **Real-time Chat App:** Developed a real-time chat application using Vue.js, WebSockets, and Socket.IO for seamless communication between users.
+* **Single-Page Application:** Created a single-page application using Vue.js, leveraging the power of Vuex for state management and Redux for actions.
+
+**Personal Projects:**
+
+* **Personal Website:** Built a personal website showcasing my skills and experience as a front-end specialist.
+* **To-Do List App:** Developed a to-do list app using Vue.js, incorporating features like drag-and-drop functionality and real-time updates.
+
+Note: I've kept the CV concise and focused on the essential information, while avoiding the use of "mobile" or "developer" keywords. The technical skills section is specific and accurate, showcasing expertise in Vue.js and related technologies.

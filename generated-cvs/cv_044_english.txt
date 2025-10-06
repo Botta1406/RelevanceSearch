@@ -1,0 +1,67 @@
+**Alexei Petrov**
+
+**Contact Information:**
+
+* Phone: +1 (123) 456-7890
+* Email: [alexpetrov@email.com](mailto:alexpetrov@email.com)
+* LinkedIn: linkedin.com/in/alexeipetrov
+
+**Professional Summary:**
+
+Results-driven software engineer with a passion for crafting seamless user experiences. Proven track record of delivering high-quality, scalable solutions that drive business growth. Skilled in collaborating with cross-functional teams to bring innovative ideas to life.
+
+**Technical Skills:**
+
+* Programming Languages:
+ + Dart
+ + Kotlin
+ + JavaScript
+ + Swift
+* Frameworks and Libraries:
+ + Flutter
+ + React Native
+ + Expo
+ + Redux
+* Databases:
+ + Room (Android)
+ + Core Data (iOS)
+ + Firebase Realtime Database
+* UI/UX Tools:
+ + UIKit (iOS)
+ + SwiftUI (iOS)
+ + Jetpack Compose (Android)
+ + Material-UI (Web)
+* Agile Methodologies:
+ + Scrum
+
+**Work Experience:**
+
+### Senior Software Engineer, GreenTech Inc. (2022 - Present)
+
+* Led the development of a web-based application using React Native, resulting in a 30% increase in user engagement
+* Collaborated with designers to implement responsive UI/UX components
+* Implemented Redux for state management and ensured smooth app performance
+
+### Full-Stack Engineer, TechSpark Ventures (2020 - 2022)
+
+* Built a scalable API using Flask and Django, serving as the backbone of a SaaS application
+* Contributed to the development of a Flutter-based iOS and Android app
+* Worked with QA engineers to identify and resolve critical issues
+
+### Junior Software Engineer, Nova Corp. (2019 - 2020)
+
+* Assisted in the development of an Android app using Kotlin and Jetpack Compose
+* Implemented Room persistence for data storage and retrieval
+* Participated in code reviews and ensured adherence to coding standards
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, Oregon State University (2018 - 2022)
+
+**Projects:**
+
+1. **Weather App**: A React Native application that fetches weather data from OpenWeatherMap API.
+2. **Todo List**: A Flutter-based iOS and Android app for managing tasks.
+3. **Quiz Game**: A Kotlin-based Android app with a built-in database using Room.
+
+Note: The experience, education, and projects are fictional examples. Please ensure to customize the CV according to your actual experience and qualifications.

@@ -1,0 +1,58 @@
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+Highly skilled software engineer with 5 years of experience in crafting intuitive, user-centric applications for web and desktop platforms. Proficient in building scalable, maintainable solutions using modern front-end technologies. Proven track record of delivering high-quality projects on time, working closely with cross-functional teams to bring innovative ideas to life.
+
+**Technical Skills:**
+
+* Front-end frameworks:
+	+ Vue.js
+	+ React
+* Programming languages:
+	+ JavaScript (ES6+)
+	+ HTML5/CSS3
+* Build tools and processes:
+	+ Webpack
+	+ Babel
+	+ ESLint
+* State management libraries:
+	+ Vuex
+	+ Redux
+* UI components and libraries:
+	+ Material-UI
+	+ Bootstrap
+* Testing frameworks:
+	+ Jest
+	+ Cypress
+
+**Work Experience:**
+
+**Senior Front-end Engineer, TechCorp (2022 - Present)**
+
+* Led the development of a complex e-commerce platform using Vue.js, resulting in a 30% increase in sales
+* Collaborated with the design team to implement a responsive UI, utilizing Material-UI and Bootstrap components
+* Implemented automated testing using Jest and Cypress, reducing testing time by 50%
+
+**Front-end Engineer, StartUpX (2020 - 2022)**
+
+* Contributed to the development of a real-time chat application using React, Node.js, and Socket.IO
+* Optimized UI performance using Webpack and Babel, resulting in a 20% reduction in page load times
+* Participated in code reviews and ensured adherence to coding standards
+
+**Junior Front-end Engineer, CompanyZ (2018 - 2020)**
+
+* Assisted in the development of a web-based project management tool using Vue.js and RESTful APIs
+* Implemented user authentication using Redux and Firebase Authentication
+* Worked closely with the design team to create visually appealing UI components
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California, Los Angeles (UCLA) (2016 - 2020)
+
+**Projects:**
+
+1. **E-commerce Platform**: Built a comprehensive e-commerce platform using Vue.js, Node.js, and Express.js, featuring a responsive UI and robust search functionality.
+2. **Real-time Chat App**: Created a real-time chat application using React, Node.js, and Socket.IO, allowing for seamless communication between users.
+3. **Web-Based Project Management Tool**: Developed a web-based project management tool using Vue.js, RESTful APIs, and Firebase, providing a user-friendly interface for managing projects.
+
+Note: The work experience and projects sections can be customized to fit the specific skills and experience of the individual.

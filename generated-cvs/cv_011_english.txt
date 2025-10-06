@@ -1,0 +1,64 @@
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+Highly skilled Cloud Architect with 5 years of experience designing, building, and maintaining scalable cloud-based systems on Amazon Web Services (AWS). Proven track record of delivering secure, efficient, and cost-effective solutions that meet the evolving needs of modern organizations. Expertise in cloud migration, security, and architecture.
+
+**Technical Skills:**
+
+* Cloud Platforms:
+	+ AWS (EC2, S3, RDS, Lambda, DynamoDB)
+* Storage and Data Management:
+	+ S3
+	+ EBS
+	+ Glacier
+	+ AmazonFS
+* Networking and Load Balancing:
+	+ ELB
+	+ NLB
+	+ VPC
+	+ Route 53
+* Security and Identity:
+	+ IAM
+	+ Cognito
+	+ Inspector
+	+ CloudWatch
+* Database Management:
+	+ RDS (MySQL, PostgreSQL, Oracle)
+	+ DynamoDB
+	+ DocumentDB
+* DevOps Tools:
+	+ Terraform
+	+ AWS CLI
+	+ AWS SDKs
+
+**Work Experience:**
+
+**Senior Cloud Architect, ABC Corporation (2020-Present)**
+
+* Designed and implemented a cloud-based e-commerce platform using AWS services, resulting in 30% reduction in costs and 25% increase in scalability.
+* Collaborated with the development team to implement a microservices architecture using AWS Lambda, API Gateway, and Amazon Elastic Container Service (ECS).
+* Ensured compliance with organizational security policies by implementing IAM roles, Cognito authentication, and encryption at rest and in transit.
+
+**Cloud Engineer, DEF Startups (2018-2020)**
+
+* Migrated a monolithic application to a cloud-based microservices architecture using AWS services, resulting in 40% reduction in costs and 30% increase in scalability.
+* Designed and implemented a data warehousing solution using Amazon Redshift, resulting in 50% decrease in query time.
+* Collaborated with the DevOps team to implement continuous integration and delivery (CI/CD) pipelines using Terraform and AWS CodeBuild.
+
+**Cloud Engineer, GHI Agency (2016-2018)**
+
+* Designed and implemented a cloud-based customer relationship management (CRM) system using AWS services, resulting in 25% reduction in costs and 20% increase in scalability.
+* Collaborated with the development team to implement a real-time analytics solution using Amazon Kinesis, Apache Kafka, and AWS Glue.
+* Ensured compliance with organizational security policies by implementing IAM roles, Cognito authentication, and encryption at rest and in transit.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2016)
+
+**Projects:**
+
+1. **Cloud-Based E-commerce Platform**: Designed and implemented a cloud-based e-commerce platform using AWS services, resulting in 30% reduction in costs and 25% increase in scalability.
+2. **Microservices Architecture**: Collaborated with the development team to implement a microservices architecture using AWS Lambda, API Gateway, and Amazon Elastic Container Service (ECS).
+3. **Data Warehousing Solution**: Designed and implemented a data warehousing solution using Amazon Redshift, resulting in 50% decrease in query time.
+
+Note: I've kept the CV concise and focused on highlighting the candidate's technical skills, work experience, and achievements.

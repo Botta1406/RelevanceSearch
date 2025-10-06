@@ -1,0 +1,64 @@
+**Emily J. Wilson**
+
+**Contact Information:**
+
+* Phone: +1 555 123 4567
+* Email: [ewilson@email.com](mailto:ewilson@email.com)
+* LinkedIn: linkedin.com/in/emilyjwilson
+
+**Professional Summary:**
+
+Highly skilled and detail-oriented frontend expert with 5 years of experience in crafting responsive, user-friendly interfaces for web applications. Proficient in a range of programming languages, frameworks, and libraries, with a strong focus on delivering high-quality solutions that meet client needs.
+
+**Technical Skills:**
+
+* Frontend Frameworks:
+ + Vue.js
+* Programming Languages:
+ + JavaScript (ES6+)
+ + TypeScript
+* UI Libraries:
+ + Bootstrap 5
+ + Material-UI
+* Database Systems:
+ + MongoDB
+ + PostgreSQL
+* Build Tools:
+ + Webpack
+ + Babel
+* Testing Frameworks:
+ + Jest
+
+**Work Experience:**
+
+### Senior Frontend Engineer, XYZ Corporation (2022 - Present)
+
+* Led the development of multiple high-traffic web applications, resulting in a 30% increase in user engagement.
+* Collaborated with cross-functional teams to design and implement responsive UI components using Vue.js.
+* Implemented authentication and authorization systems using JSON Web Tokens (JWT).
+* Mentored junior team members on best practices for code organization and testing.
+
+### Frontend Engineer, ABC Startups (2020 - 2022)
+
+* Contributed to the development of a React Native application with over 100K downloads on app stores.
+* Designed and implemented intuitive UI components using React and JavaScript.
+* Worked closely with designers to create visually appealing and user-friendly interfaces.
+* Participated in code reviews and ensured adherence to coding standards.
+
+### Frontend Intern, DEF Agency (Summer 2020)
+
+* Assisted senior engineers in the development of a Vue.js single-page application for a Fortune 500 company.
+* Learned about responsive web design principles and how to apply them using Vue.js and Bootstrap 4.
+* Participated in bug testing and debugging techniques using console logs and debugging tools.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, University of California, Los Angeles (UCLA) (2018)
+
+**Projects:**
+
+1. **Vue.js Todo List App**: A responsive todo list application built with Vue.js, Bootstrap 5, and MongoDB.
+2. **React Native Weather App**: A mobile app that displays current weather conditions using React Native, JavaScript, and OpenWeatherMap API.
+3. **Personal Website**: A modern personal website built with Vue.js, CSS Grid, and Webpack.
+
+Note: I've kept the CV concise and focused on showcasing Emily's technical skills and experience in frontend development with Vue.js.

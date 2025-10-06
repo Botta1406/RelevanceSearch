@@ -1,0 +1,67 @@
+**Alex Chen**
+**Contact Information:**
+
+* Email: [alex.chen@email.com](mailto:alex.chen@email.com)
+* Phone: +1 555 123 4567
+* LinkedIn: linkedin.com/in/alexchennodev
+
+**Professional Summary:**
+Highly skilled software engineer with 3 years of experience in building scalable, user-centric applications for cross-platform consumption. Proven track record of delivering high-quality solutions that drive business growth and customer satisfaction. Proficient in a range of technologies, including JavaScript frameworks and native platform-specific languages.
+
+**Technical Skills:**
+
+* Front-end:
+	+ React (with Redux)
+	+ JavaScript (ES6+, Babel)
+	+ Expo
+* Back-end:
+	+ Node.js (with Express)
+	+ GraphQL
+* Native Platforms:
+	+ iOS:
+		- Swift
+		- UIKit
+		- SwiftUI
+		- Xcode
+		- Core Data
+	+ Android:
+		- Kotlin
+		- Java
+		- Jetpack Compose
+		- Android Studio
+		- Room
+* Databases:
+	+ Firebase Realtime Database
+	+ PostgreSQL
+
+**Work Experience:**
+
+### Senior Software Engineer, ABC Corporation (2020 - Present)
+
+* Lead the development of a scalable e-commerce platform using React Native, Node.js, and GraphQL
+* Collaborated with cross-functional teams to design and implement new features, ensuring seamless customer experience
+* Implemented automated testing and deployment scripts using Expo and Jest
+
+### iOS Developer, DEF Startups (2019 - 2020)
+
+* Developed several apps for the Apple App Store, utilizing Swift, UIKit, and Xcode
+* Worked closely with designers to create visually appealing UI/UX designs that met business objectives
+* Troubleshooted and fixed bugs using Core Data and Instruments
+
+### Android Developer, GHI Agency (2018 - 2019)
+
+* Built several apps for the Google Play Store, leveraging Kotlin, Java, and Jetpack Compose
+* Contributed to the development of a company-wide project management tool using Android Studio and Room
+* Participated in code reviews and ensured high-quality deliverables
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2018)
+
+**Projects:**
+
+1. **E-commerce Platform**: A React Native-based e-commerce platform with features like user authentication, product catalog management, and order tracking.
+2. **To-Do List App**: An iOS app built using Swift, UIKit, and Xcode, featuring a clean UI/UX design and basic task management functionality.
+3. **Blog Reader**: An Android app developed using Kotlin, Jetpack Compose, and Android Studio, providing a seamless reading experience for users.
+
+Note: The above CV/resume is just an example and should be tailored to fit the individual's actual experience and skills.

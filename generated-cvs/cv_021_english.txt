@@ -1,0 +1,67 @@
+**Name:** Ethan Thompson
+
+**Contact Information:**
+
+* Email: [ethan.thompson@email.com](mailto:ethan.thompson@email.com)
+* Phone: +1 (123) 456-7890
+* LinkedIn: linkedin.com/in/ethanthompsondev
+
+**Professional Summary:**
+Highly experienced software engineer with a strong passion for creating innovative and scalable solutions. Proven track record of delivering high-quality projects on time, working closely with cross-functional teams to drive business growth through technology. Skilled in designing and developing complex systems using modern programming languages and frameworks.
+
+**Technical Skills:**
+
+* Programming Languages:
+ + Swift
+ + Kotlin
+ + Java
+ + JavaScript (with React)
+* Frameworks and Libraries:
+ + UIKit
+ + SwiftUI
+ + Android Jetpack Compose
+ + React Native
+ + Redux
+ + Expo
+* Databases:
+ + Core Data
+ + Room Persistence Library
+ + Firebase Realtime Database
+* Agile Methodologies:
+ + Scrum
+ + Kanban
+* Operating Systems:
+ + iOS
+ + Android
+
+**Work Experience:**
+
+### Senior Software Engineer, XYZ Corporation (2018 - Present)
+
+* Led a team of engineers to develop and deploy multiple successful iOS applications for a leading fintech company.
+* Designed and implemented a scalable architecture using Swift and Core Data, resulting in a 300% increase in app performance.
+* Collaborated with designers to integrate visually appealing UI components into the application.
+
+### Android Engineer, ABC Startups (2015 - 2018)
+
+* Developed multiple Android applications for various clients, including banking and healthcare industries.
+* Implemented features using Jetpack Compose and Android Studio, resulting in a 25% reduction in development time.
+* Participated in code reviews and contributed to the growth of the team's knowledge base.
+
+### iOS Engineer, DEF Agency (2012 - 2015)
+
+* Contributed to the development of multiple iOS applications for clients across various industries.
+* Designed and implemented UI components using UIKit, resulting in a significant increase in user engagement.
+* Collaborated with QA engineers to identify and resolve defects in the application.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California, Los Angeles (2012)
+
+**Projects:**
+
+1. **iOS Weather App**: A user-friendly weather app that displays current conditions and forecasts for multiple locations. Implemented using Swift and Core Data.
+2. **Android Todo List App**: A simple to-do list app that allows users to create, edit, and delete tasks. Developed using Kotlin and Android Jetpack Compose.
+3. **React Native Chatbot**: A conversational chatbot that responds to user queries and provides relevant information. Built using React and JavaScript.
+
+Note: The projects listed are examples of personal projects or contributions to open-source repositories.

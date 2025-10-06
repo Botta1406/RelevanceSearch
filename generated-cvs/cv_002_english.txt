@@ -1,0 +1,52 @@
+**Ethan Thompson**
+**Frontend Expert | Experience Driven Solutions**
+
+**Professional Summary:**
+Highly skilled frontend professional with 7+ years of experience delivering high-quality, user-centric applications that exceed client expectations. Proficient in modern front-end technologies and frameworks, with a strong focus on performance, accessibility, and maintainability.
+
+**Technical Skills:**
+
+* Front-end frameworks: Vue.js
+* Programming languages: JavaScript (ES6+, Babel), HTML5, CSS3
+* Build tools: Webpack, Vuetify
+* State management: Vuex, Pinia
+* UI components: Vuetify, Material-UI
+* Responsive web design: Media queries, Flexbox, Grid
+* Accessibility: ARIA attributes, Semantic HTML
+
+**Work Experience:**
+
+**Senior Frontend Engineer**, ABC Corporation (2020 - Present)
+
+* Led the development of a new e-commerce platform using Vue.js, resulting in a 30% increase in sales
+* Collaborated with cross-functional teams to design and implement responsive UI components for web and iOS applications
+* Implemented a state management system using Vuex, reducing application bugs by 50%
+
+**Frontend Engineer**, DEF Agency (2018 - 2020)
+
+* Contributed to the development of multiple web applications using React Native, resulting in a 25% increase in user engagement
+* Optimized application performance using React's built-in optimization techniques and caching libraries like Redux
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+**Junior Frontend Engineer**, GHI Studio (2016 - 2018)
+
+* Assisted senior engineers with the development of multiple web applications, focusing on building responsive UI components using Vuetify
+* Implemented ARIA attributes and semantic HTML for accessibility purposes
+* Participated in automated testing and ensured code quality through JSHint
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2016)
+
+**Projects:**
+
+* **E-commerce Platform**: A fully functional e-commerce platform built using Vue.js, resulting in a 30% increase in sales.
+* **Task Management App**: A task management app built using React Native, featuring real-time updates and push notifications.
+* **Responsive UI Components**: A set of responsive UI components built using Vuetify, showcasing best practices for accessibility and performance.
+
+**Certifications:**
+
+* Certified Vue.js Developer (2020)
+* Certified React Native Developer (2019)
+
+Note: I've kept the CV concise and focused on the most relevant information. Feel free to adjust or add anything as needed!

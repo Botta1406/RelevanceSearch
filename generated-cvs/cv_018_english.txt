@@ -1,0 +1,62 @@
+Here's a sample CV:
+
+**Name:** Ethan Jenkins
+
+**Professional Summary:**
+Highly motivated and detail-oriented software engineer with 2 years of experience in designing, developing, and deploying scalable and efficient applications for various platforms. Proficient in leveraging cutting-edge technologies to create seamless user experiences. Passionate about staying up-to-date with the latest industry trends and best practices.
+
+**Technical Skills:**
+
+* Programming Languages:
+	+ Kotlin
+	+ Java
+	+ JavaScript (React)
+* Frameworks and Libraries:
+	+ Android SDK
+	+ Jetpack Compose
+	+ Room Persistence Library
+	+ Expo
+* Databases:
+	+ SQLite
+	+ Realm
+	+ Core Data
+* UI/UX Tools:
+	+ Android Studio
+	+ IntelliJ IDEA (for iOS projects)
+	+ Sketch
+	+ Figma
+* Operating Systems:
+	+ Windows 10
+	+ macOS High Sierra
+
+**Work Experience:**
+
+### Senior Software Engineer, ABC Corporation (2022 - Present)
+
+* Designed and developed multiple features for a flagship Android application using Kotlin, Jetpack Compose, and Room Persistence Library.
+* Collaborated with cross-functional teams to identify and resolve performance issues, resulting in a 30% increase in app performance.
+* Implemented a new onboarding process, reducing user acquisition costs by 25%.
+
+### Front-end Engineer, DEF Agency (2020 - 2022)
+
+* Built reusable UI components using React and JavaScript for a web application using Expo.
+* Worked closely with the design team to ensure seamless integration of UI elements and implemented responsive designs for various devices and screen sizes.
+* Participated in code reviews and ensured adherence to coding standards.
+
+### Junior Software Engineer, GHI Startups (2019 - 2020)
+
+* Contributed to the development of an iOS application using Swift, UIKit, and Xcode.
+* Assisted in the setup and maintenance of Core Data for data storage and retrieval.
+* Implemented bug fixes and feature enhancements, demonstrating a strong understanding of software engineering principles.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2018 - 2020)
+
+**Projects:**
+
+1. **Android Todo List App**: A simple to-do list application built using Kotlin, Jetpack Compose, and Room Persistence Library.
+2. **React Native Weather App**: A weather app developed using React, JavaScript, and Expo for both iOS and Android platforms.
+3. **Swift UIKit Chatbot**: A basic chatbot built using Swift, UIKit, and Xcode, featuring natural language processing and machine learning capabilities.
+
+Note: The projects listed are fictional examples and should be replaced with actual projects you've worked on in your career.

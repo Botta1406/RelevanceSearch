@@ -1,0 +1,70 @@
+**CV**
+
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+Highly skilled software engineer with 3 years of experience in crafting engaging, user-friendly applications using modern technologies. Proven track record of delivering high-quality solutions that meet the needs of various stakeholders.
+
+**Technical Skills:**
+
+* Programming languages:
+ + JavaScript
+ + Swift (iOS)
+ + Kotlin (Android)
+ + Java
+* Frameworks and libraries:
+ + React
+ + Expo
+ + Redux
+ + SwiftUI (iOS)
+ + Jetpack Compose (Android)
+ + Core Data (iOS)
+ + Room (Android)
+* Databases:
+ + Realm
+ + Firebase
+ + MongoDB
+* Agile methodologies:
+ + Scrum
+ + Kanban
+* Operating Systems:
+ + iOS (13+)
+ + Android (10+)
+
+**Work Experience:**
+
+**Senior Software Engineer, ABC Corporation (2020-Present)**
+
+* Led a team of engineers to develop and deploy multiple applications for various clients.
+* Designed and implemented features using React Native, ensuring seamless user experiences across platforms.
+* Collaborated with designers to create visually appealing interfaces that met brand guidelines.
+* Participated in code reviews and ensured adherence to best practices.
+
+**iOS Engineer, DEF Startups (2018-2020)**
+
+* Developed multiple iOS applications using Swift, Xcode, and Core Data.
+* Worked closely with the product team to gather requirements and implement new features.
+* Implemented unit tests and integration tests to ensure robustness of the codebase.
+* Participated in code reviews and provided constructive feedback.
+
+**Junior Software Engineer, GHI Agency (2017-2018)**
+
+* Contributed to the development of multiple Android applications using Kotlin, Java, and Jetpack Compose.
+* Assisted senior engineers with tasks such as debugging and performance optimization.
+* Implemented bug fixes and new features for existing applications.
+* Learned and implemented best practices using Agile methodologies.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California, Berkeley (2016-2020)
+
+**Projects:**
+
+* **Weather App**: A React Native application that retrieves current weather data from APIs and displays it in a user-friendly interface.
+* **Task Manager**: An Android application built using Jetpack Compose, allowing users to manage tasks and set reminders.
+* **Quiz Game**: A Swift-based iOS game that tests users' knowledge of history facts.
+
+**Certifications:**
+
+* Certified Scrum Master (CSM), Scrum Alliance
+* Certified Java Developer, Oracle Corporation

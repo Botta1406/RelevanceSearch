@@ -1,0 +1,49 @@
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+
+Highly skilled Cloud Architect with 3 years of experience designing, building, and deploying scalable cloud infrastructure solutions on Amazon Web Services (AWS). Proven track record of delivering high-quality cloud-based applications that meet business needs while ensuring cost-effectiveness and scalability. Strong understanding of cloud security, compliance, and migration strategies.
+
+**Technical Skills:**
+
+- Operating Systems: Windows, Linux
+- Cloud Platforms: AWS
+- Database Management: Relational databases (RDS), NoSQL databases (DynamoDB)
+- Containerization: Docker
+- Serverless Computing: Lambda
+- Networking: VPCs, Subnets, Route Tables
+- Security: IAM, Cognito, Identity and Access Management
+
+**Work Experience:**
+
+1. **Cloud Architect**, ABC Corporation (2022 - Present)
+
+   - Designed and implemented a scalable cloud architecture for a large e-commerce platform on AWS
+   - Ensured seamless integration with existing systems using API Gateway, Lambda, and S3
+   - Implemented a robust security framework using IAM, Cognito, and Identity and Access Management
+   - Collaborated with cross-functional teams to ensure timely delivery of projects
+
+2. **Cloud Engineer**, DEF Solutions (2020 - 2022)
+
+   - Built and deployed several cloud-based applications on AWS, including a web application and an analytics platform
+   - Implemented containerization using Docker to improve deployment efficiency
+   - Configured and managed VPCs, subnets, route tables, and security groups for optimal network performance
+   - Assisted in the migration of legacy systems to the cloud using AWS Migration Hub
+
+3. **Cloud Consultant**, GHI Enterprises (2019 - 2020)
+
+   - Conducted a thorough assessment of clients' cloud infrastructure and provided recommendations for optimization and cost savings
+   - Designed and implemented a secure cloud architecture using IAM, Cognito, and Identity and Access Management
+   - Collaborated with clients to identify and prioritize cloud migration projects
+
+**Education:**
+
+- **Bachelor's Degree in Computer Science**, XYZ University (2019)
+
+**Projects:**
+
+1. **Cloud-Based E-commerce Platform**: Designed and implemented a scalable e-commerce platform on AWS using API Gateway, Lambda, and S3
+2. **Serverless Analytics Platform**: Built a serverless analytics platform on AWS using Lambda, DynamoDB, and CloudWatch
+3. **Cloud Security Framework**: Implemented a robust security framework on AWS using IAM, Cognito, and Identity and Access Management
+
+Note: The information provided is fictional and for demonstration purposes only.

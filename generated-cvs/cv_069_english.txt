@@ -1,0 +1,72 @@
+**Alexei Ivanov**
+
+**Contact Information:**
+
+* Email: [alexii@live.com](mailto:alexii@live.com)
+* Phone: +1 (123) 456-7890
+* LinkedIn: linkedin.com/in/alexiiivanov
+
+**Professional Summary:**
+Highly skilled and experienced professional with a strong passion for building scalable, efficient, and user-friendly applications. Proficient in a range of programming languages and frameworks, with a keen eye for detail and a collaborative mindset. Proven track record of delivering high-quality solutions on time, working closely with cross-functional teams to drive business growth.
+
+**Technical Skills:**
+
+* Programming languages:
+ + JavaScript
+ + Kotlin
+ + Java
+* Frameworks:
+ + React
+ + Expo
+ + Flutter
+ + Swift
+ + UIKit
+ + SwiftUI
+* Databases:
+ + Core Data
+ + Room
+ + MongoDB
+* Operating Systems:
+ + iOS
+ + Android
+ + Windows
+* Agile methodologies:
+ + Scrum
+ + Kanban
+
+**Work Experience:**
+
+**Senior Application Architect**, ABC Corporation (2020 - Present)
+
+* Led the design and development of multiple high-traffic applications, ensuring scalability, performance, and reliability.
+* Collaborated with cross-functional teams to identify requirements, define technical specifications, and drive business growth.
+* Implemented automated testing frameworks using Jest and Cypress, resulting in a 30% reduction in deployment time.
+
+**Technical Lead**, DEF Startups (2018 - 2020)
+
+* Spearheaded the development of multiple Android applications, utilizing Kotlin and Jetpack Compose to create seamless user experiences.
+* Mentored junior engineers, providing guidance on best practices, coding standards, and technical debt management.
+* Implemented CI/CD pipelines using Jenkins and GitLab, streamlining the deployment process by 50%.
+
+**Junior Frontend Engineer**, GHI Agency (2016 - 2018)
+
+* Contributed to the development of multiple React Native applications, utilizing JavaScript and Redux to create efficient and scalable UI components.
+* Collaborated with designers to implement responsive designs using CSS and styled-components.
+* Participated in code reviews, ensuring adherence to coding standards and best practices.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of Illinois at Urbana-Champaign (2016)
+
+**Projects:**
+
+* **Weather App**: A React Native application utilizing OpenWeatherMap API to display current weather conditions and forecasts.
+* **Todo List**: An Android application built using Kotlin and Room Persistence Library, allowing users to create, edit, and delete todo items.
+* **Personal Finance Tracker**: A web application developed using JavaScript and MongoDB, enabling users to track expenses, income, and budget.
+
+**Certifications:**
+
+* Certified Scrum Master (CSM), Scrum Alliance
+* Certified Kubernetes Administrator (CKA), Cloud Native Computing Foundation
+
+Note: The above CV is just a sample, please make sure to tailor it to your own experience and style.

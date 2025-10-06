@@ -1,0 +1,53 @@
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+Highly motivated and detail-oriented software engineer with 3 years of experience in designing, developing, and deploying scalable and efficient software applications for Android platforms. Skilled in a wide range of technologies and frameworks, with a strong passion for delivering high-quality products on time.
+
+**Technical Skills:**
+
+- **Programming Languages:** Kotlin, Java
+- **Android Frameworks:** Jetpack Compose, Android Studio, Room Persistence Library
+- **Database Management:** Realm, SQLite
+- **Cloud Platforms:** AWS, Google Cloud
+- **Version Control Systems:** Git, SVN
+- **Operating Systems:** Windows, Linux
+
+**Work Experience:**
+
+### Senior Software Engineer (Android)
+ABC Corporation, San Francisco, CA
+February 2022 - Present
+
+* Designed and developed multiple Android applications for various clients, including a popular e-commerce app with millions of users.
+* Collaborated with cross-functional teams to identify and prioritize project requirements.
+* Implemented advanced features using Jetpack Compose, Room Persistence Library, and AWS services.
+* Conducted code reviews, ensured adherence to coding standards, and mentored junior team members.
+
+### Android Engineer
+ DEF Startups, New York, NY
+June 2019 - January 2022
+
+* Developed multiple Android applications for various industries, including healthcare and finance.
+* Worked on integrating third-party APIs, implementing authentication systems, and optimizing app performance.
+* Implemented design patterns, such as MVVM, to improve code maintainability and scalability.
+* Participated in agile development methodologies, ensuring timely delivery of projects.
+
+### Intern
+GHI Ventures, San Francisco, CA
+Summer 2018
+
+* Contributed to the development of a Android application for tracking personal expenses.
+* Assisted in designing the user interface, implementing features using Java and Android Studio.
+* Learned about Android architecture patterns, including MVP and MVVM.
+
+**Education:**
+
+- Bachelor of Science in Computer Science, Stanford University (2016-2020)
+
+**Projects:**
+
+1. **E-commerce App:** Developed an e-commerce app for tracking orders, managing inventory, and providing real-time updates to customers.
+2. **Weather Forecast App:** Created a weather forecast app using OpenWeatherMap API, displaying current weather conditions and forecasts for specific locations.
+3. **Personal Expense Tracker:** Built a personal expense tracker app using Android Studio, allowing users to track expenses, categorize spending, and generate reports.
+
+Note: This is just an example CV/resume and should be tailored to fit your own experiences and qualifications.

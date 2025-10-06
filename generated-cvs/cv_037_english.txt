@@ -1,0 +1,69 @@
+**Ethan Thompson**
+
+**Contact Information:**
+
+* Email: [ethan.thompson@email.com](mailto:ethan.thompson@email.com)
+* Phone: +1 555 123 4567
+* LinkedIn: linkedin.com/in/ethanthompson
+
+**Professional Summary:**
+Highly skilled and experienced UI engineer with a passion for crafting seamless user experiences. Proficient in building scalable, responsive, and performant web applications using modern front-end technologies.
+
+**Technical Skills:**
+
+* Front-end frameworks:
+ + Vue.js
+ + React
+* Programming languages:
+ + JavaScript (ES6+, Babel)
+ + TypeScript
+* Build tools:
+ + Webpack
+ + Rollup
+* State management:
+ + Vuex
+ + Redux
+* Design systems:
+ + Material-UI
+ + Tailwind CSS
+* Database interactions:
+ + RESTful APIs
+ + GraphQL
+
+**Work Experience:**
+
+**Senior UI Engineer, XYZ Corporation (2020-Present)**
+
+* Led the design and implementation of multiple high-profile web applications using Vue.js
+* Collaborated with cross-functional teams to deliver projects on time and within budget
+* Implemented automated testing and continuous integration workflows using Jest and CircleCI
+* Mentored junior team members in best practices for front-end development
+
+**UI Engineer, ABC Startups (2018-2020)**
+
+* Contributed to the development of a popular e-commerce platform using React Native
+* Worked closely with designers to create responsive and engaging user interfaces
+* Optimized app performance using React Navigation and Redux
+* Participated in code reviews to ensure high-quality code standards
+
+**Junior UI Engineer, DEF Agency (2016-2018)**
+
+* Assisted in the development of a complex web application using Angular
+* Learned and implemented best practices for front-end development, including modular coding and testing
+* Developed and maintained multiple components using HTML, CSS, and JavaScript
+* Collaborated with designers to create visually appealing user interfaces
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California, Berkeley (2016)
+
+**Projects:**
+
+1. **Vue.js E-commerce Platform**: A fully functional e-commerce platform built using Vue.js, Vuex, and Webpack.
+2. **React Native Weather App**: A responsive weather app built using React Native, Redux, and Material-UI.
+3. **Angular Web Application**: A complex web application built using Angular, TypeScript, and RESTful APIs.
+
+**Certifications:**
+
+* Certified Full Stack Developer, FreeCodeCamp (2018)
+* Certified Front-end Engineer, HubSpot Academy (2020)

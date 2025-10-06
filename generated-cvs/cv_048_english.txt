@@ -1,0 +1,56 @@
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+Highly skilled software engineer with a passion for building seamless, user-centric experiences across various platforms. Proficient in crafting efficient, scalable applications using modern technologies. Excellent problem-solving skills, with a strong focus on collaboration and delivering high-quality results under tight deadlines.
+
+**Technical Skills:**
+
+* Programming languages:
+ + JavaScript (React)
+ + Kotlin
+ + Java
+* Frameworks:
+ + React Native
+ + Expo
+* Databases:
+ + Realm (Android), Core Data (iOS)
+ + Room Persistence Library (Android)
+* Design Systems:
+ + Material-UI (React Native, Android)
+ + UIKit (iOS)
+* Version Control:
+ + Git
+* Agile Methodologies:
+ + Scrum
+
+**Work Experience:**
+
+### Senior Software Engineer at GreenTech Inc. (2022-Present)
+
+* Led the development of a highly scalable, cloud-based platform for enterprise clients using React Native and Expo.
+* Collaborated with cross-functional teams to design, implement, and deliver feature-rich applications that met stringent quality standards.
+* Implemented testing frameworks to ensure seamless integrations and efficient debugging processes.
+
+### Android Software Engineer at BlueSky Solutions (2020-2022)
+
+* Contributed to the development of a flagship app for an emerging startup using Kotlin and Jetpack Compose.
+* Worked closely with designers to implement visually stunning, user-friendly interfaces that met industry standards.
+* Participated in code reviews, ensuring adherence to best practices, security, and performance.
+
+### Frontend Engineer at CodeCraft (2019-2020)
+
+* Built and maintained numerous React Native applications for various clients using JavaScript and Redux.
+* Utilized Expo and Material-UI to create visually appealing interfaces that met the needs of diverse users.
+* Assisted in troubleshooting complex issues, implementing fixes, and iterating on designs.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California (2018)
+
+### Projects:
+
+1. **Social Impact Platform**: Developed a React Native application for social impact, utilizing GraphQL, Realm, and Redux to ensure efficient data management.
+2. **Personal Finance Tracker**: Created an Android app using Kotlin and Room Persistence Library, providing users with real-time financial insights and budgeting tools.
+3. **Weather Forecast App**: Built a weather forecasting app using Expo, JavaScript, and Material-UI, delivering seamless user experiences across various platforms.
+
+As a highly motivated software engineer, I am committed to staying up-to-date with the latest technologies and trends in my field, ensuring that my skills remain cutting-edge and effective in delivering exceptional results.

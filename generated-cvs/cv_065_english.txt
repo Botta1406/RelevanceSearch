@@ -1,0 +1,64 @@
+**Name:** Ethan Lee
+
+**Professional Summary:**
+Highly skilled and passionate front-end engineer with a strong background in building fast, scalable, and user-friendly applications. Proficient in multiple frameworks and technologies, with a keen eye for detail and a passion for delivering high-quality solutions that meet and exceed client expectations.
+
+**Technical Skills:**
+
+* Front-end frameworks:
+ + React Native
+ + Flutter
+* Programming languages:
+ + JavaScript
+ + Dart
+* UI libraries and tools:
+ + Redux
+ + Expo
+ + Jetpack Compose
+* Data storage and management:
+ + Room
+ + Core Data
+* Operating Systems:
+ + iOS (Swift, UIKit, SwiftUI, Xcode)
+ + Android (Kotlin, Java, Jetpack Compose, Android Studio)
+* Agile methodologies and version control:
+ + Git
+ + SVN
+
+**Work Experience:**
+
+1. **Senior Front-end Engineer**, GreenTech Inc. (2022 - Present)
+
+* Led a team of front-end engineers to design and develop multiple high-profile applications using React Native.
+* Collaborated with designers to implement visually stunning UI/UX designs, resulting in a 30% increase in user engagement.
+* Implemented Redux state management and Expo navigation for seamless app performance.
+
+2. **Front-end Engineer**, FastTrack Solutions (2020 - 2022)
+
+* Contributed to the development of multiple iOS applications using Swift, UIKit, and SwiftUI, resulting in a 25% reduction in bugs and crashes.
+* Worked closely with QA engineers to identify and resolve issues, ensuring high-quality deliverables.
+
+3. **Intern**, TechStartups (Summer 2019)
+
+* Assisted in the development of a Flutter-based e-commerce application, learning and applying best practices for maintainability, scalability, and performance.
+* Participated in code reviews and provided feedback to improve overall code quality.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California, Los Angeles (UCLA) (2018 - 2022)
+
+**Projects:**
+
+1. **React Native Todo List App**: A simple todo list app built using React Native, Redux, and Expo.
+2. **Flutter Weather App**: A weather app built using Flutter, Dart, and Room for data storage.
+3. **iOS Chat App**: A chat app built using Swift, UIKit, and Core Data for data storage.
+
+**Certifications:**
+
+* Google Flutter Certification (2020)
+* Apple iOS Developer Certification (2019)
+
+**Personal Projects:**
+
+* Contributing to open-source projects on GitHub, including React Native and Flutter libraries.
+* Participating in coding challenges and hackathons to stay up-to-date with industry trends and best practices.

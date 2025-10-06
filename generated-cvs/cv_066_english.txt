@@ -1,0 +1,62 @@
+**Emily J. Wilson**
+
+**Contact Information:**
+
+* Email: [emily.j.wilson@email.com](mailto:emily.j.wilson@email.com)
+* Phone: +1 123 456 7890
+* LinkedIn: linkedin.com/in/emilyjwilson
+
+**Professional Summary:**
+Highly skilled and creative professional with 5 years of experience in crafting intuitive and visually stunning user interfaces for web applications. Proven track record of delivering high-quality solutions that exceed client expectations. Strong understanding of modern front-end technologies, with a keen eye for detail and a passion for staying up-to-date with the latest industry trends.
+
+**Technical Skills:**
+
+* Front-end frameworks:
+ + Vue.js
+* Programming languages:
+ + JavaScript (ES6+)
+ + HTML/CSS
+* UI libraries:
+ + Material-UI
+ + Tailwind CSS
+* Build tools:
+ + Webpack
+ + Babel
+* Version control:
+ + Git
+ + SVN
+* Agile methodologies:
+ + Scrum
+ + Kanban
+
+**Work Experience:**
+
+### Senior Front-end Engineer, GreenTech Inc. (2020-Present)
+
+* Led the development of multiple high-visibility web applications using Vue.js and modern front-end techniques.
+* Collaborated with cross-functional teams to design and implement responsive, user-friendly interfaces that met or exceeded client expectations.
+* Implemented automated testing scripts using Jest and Cypress to ensure high-quality deliverables.
+
+### Front-end Engineer, TechCorp (2018-2020)
+
+* Contributed to the development of multiple web applications using Vue.js, with a focus on building efficient, scalable solutions.
+* Worked closely with designers to translate design concepts into functional, user-friendly interfaces.
+* Participated in code reviews and implemented best practices for maintainability, security, and performance.
+
+### Junior Front-end Engineer, StartUp Ventures (2016-2018)
+
+* Assisted in the development of multiple web applications using Vue.js, with a focus on learning and growth.
+* Implemented feature requests from clients, working closely with designers to translate design concepts into functional interfaces.
+* Participated in code reviews and implemented best practices for maintainability, security, and performance.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California, Los Angeles (UCLA) (2016)
+
+**Projects:**
+
+1. **E-commerce Website**: Built a responsive e-commerce website using Vue.js, Material-UI, and Webpack.
+2. **Task Management App**: Created a task management app using Vue.js, Redux, and Expo, with features such as user authentication and data storage.
+3. **Personal Portfolio**: Developed a personal portfolio website using Vue.js, Tailwind CSS, and Babel.
+
+Note: The project descriptions are brief and focus on the technologies used, without going into too much detail.

@@ -1,0 +1,61 @@
+**Ethan Thompson**
+**Frontend Specialist**
+
+**Professional Summary:**
+Highly skilled frontend specialist with over 10 years of experience in designing and building visually stunning, user-friendly interfaces for web applications. Proven track record of delivering high-quality solutions that meet and exceed client expectations. Proficient in a range of technologies, including Vue.js, JavaScript, CSS, and HTML5.
+
+**Technical Skills:**
+
+* Frontend Frameworks:
+ + Vue.js
+ + React (including React Native)
+* Programming Languages:
+ + JavaScript (ES6+)
+ + HTML5
+ + CSS3 (including Sass and Less)
+* Design and Prototyping Tools:
+ + Sketch
+ + Figma
+ + Adobe XD
+* Database Management Systems:
+ + MongoDB
+ + PostgreSQL
+* Operating Systems:
+ + Windows
+ + macOS
+ + Linux
+
+**Work Experience:**
+
+**Senior Frontend Specialist, XYZ Corporation (2018-Present)**
+
+* Led the development of multiple high-profile web applications using Vue.js and JavaScript
+* Collaborated with cross-functional teams to design and implement responsive, user-friendly interfaces
+* Implemented robust testing and debugging strategies to ensure seamless application performance
+* Mentored junior team members in best practices for frontend development and code quality
+
+**Frontend Engineer, ABC Startups (2015-2018)**
+
+* Contributed to the development of multiple web applications using React Native and JavaScript
+* Designed and implemented native iOS and Android interfaces for clients
+* Worked closely with designers to bring visual concepts to life on screen
+* Participated in code reviews and ensured adherence to coding standards
+
+**Junior Frontend Specialist, DEF Agency (2012-2015)**
+
+* Assisted senior team members in the development of multiple web applications using HTML5, CSS3, and JavaScript
+* Built responsive, user-friendly interfaces for clients across various industries
+* Participated in design reviews and provided feedback to designers on usability and accessibility
+* Contributed to the creation of documentation and guides for frontend development best practices
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California (2008-2012)
+
+**Projects:**
+
+* **E-commerce Web Application**: Built a responsive e-commerce web application using Vue.js, JavaScript, and HTML5. Implemented features such as product filtering, sorting, and cart management.
+* **Single-Page Application**: Developed a single-page application using React, JavaScript, and Redux. Implemented routing, state management, and API integrations.
+* **Webinar Platform**: Created a webinar platform using MongoDB, Node.js, and Express.js. Designed a user-friendly interface for attendees to register, watch webinars, and interact with speakers.
+
+Note: I've kept the CV/Resume concise and focused on showcasing Ethan's technical skills, work experience, education, and projects in a clear and easy-to-read format.

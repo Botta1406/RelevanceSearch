@@ -1,0 +1,60 @@
+**Alexandrova, Maria**
+
+**Contact Information:**
+
+* Email: [mari alexandrova@email.com](mailto:marialexandrova@email.com)
+* Phone: +1 555 123 4567
+* LinkedIn: linkedin.com/in/mariaalexandrova
+
+**Professional Summary:**
+Highly skilled and passionate frontend expert with 5 years of experience in crafting visually stunning, interactive, and user-friendly interfaces. Proficient in modern front-end frameworks, JavaScript libraries, and cutting-edge technologies. Proven ability to work collaboratively in Agile environments, delivering high-quality solutions on time.
+
+**Technical Skills:**
+
+* Front-end frameworks:
+ + Vue.js
+* Programming languages:
+ + JavaScript (ES6+)
+* UI/UX tools:
+ + Tailwind CSS
+ + Webpack
+* Databases:
+ + MongoDB
+ + GraphQL
+* Operating Systems:
+ + Windows 10
+ + macOS High Sierra
+* Agile methodologies:
+ + Scrum
+
+**Work Experience:**
+
+### Senior Frontend Engineer, ABC Corporation (2020-Present)
+
+* Led the development of multiple high-profile client projects using Vue.js, resulting in a 30% increase in sales revenue.
+* Collaborated with cross-functional teams to design and implement intuitive user interfaces, enhancing overall customer experience.
+* Implemented responsive design solutions using Tailwind CSS, ensuring seamless compatibility across various devices.
+
+### Frontend Engineer, DEF Agency (2018-2020)
+
+* Contributed to the creation of a scalable and efficient e-commerce platform utilizing Vue.js and GraphQL.
+* Developed and maintained multiple React Native applications for iOS and Android platforms, resulting in a 25% reduction in bugs and errors.
+* Worked closely with designers to ensure visually appealing and user-friendly interfaces.
+
+### Junior Frontend Engineer, GHI Startups (2016-2018)
+
+* Assisted in the development of a cutting-edge web application using Vue.js and MongoDB.
+* Implemented various UI/UX improvements, resulting in a 15% increase in user engagement.
+* Participated in code reviews and contributed to the growth of the team.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California, Los Angeles (2016)
+
+**Projects:**
+
+1. **E-commerce Platform**: A scalable and efficient e-commerce platform built using Vue.js, GraphQL, and MongoDB.
+2. **React Native Chat App**: A real-time chat application for iOS and Android platforms, utilizing React Native, JavaScript, and Redux.
+3. **Personal Website**: A visually stunning personal website showcasing my skills and experience, built using HTML5, CSS3, and Vue.js.
+
+Note: The above CV is a sample and should be adjusted according to your specific needs and experiences.

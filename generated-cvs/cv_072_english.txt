@@ -1,0 +1,66 @@
+**Alexandre "Alex" Thompson**
+
+**Professional Summary:**
+Highly experienced professional with a strong background in creating intuitive, user-centric applications for various platforms. Skilled in designing and developing scalable, efficient software solutions that meet the needs of diverse users. Proven track record of delivering high-quality projects on time, working collaboratively with cross-functional teams to drive business growth.
+
+**Technical Skills:**
+
+* Front-end:
+	+ React Native
+	+ JavaScript (ES6+)
+	+ Redux
+	+ Expo
+	+ CSS3 (with Flexbox and Grid)
+	+ HTML5
+* Back-end:
+	+ Node.js
+	+ Express.js
+	+ GraphQL
+	+ RESTful APIs
+* Databases:
+	+ MongoDB
+	+ Realm
+	+ Firebase
+* Operating Systems:
+	+ iOS (Swift, UIKit, SwiftUI, Xcode)
+	+ Android (Kotlin, Java, Jetpack Compose, Android Studio)
+* Agile Methodologies:
+	+ Scrum
+	+ Kanban
+
+**Work Experience:**
+
+1. **Senior Software Engineer**, ABC Corporation (2020 - Present)
+
+* Led the development of a React Native app for iOS and Android, featuring advanced machine learning capabilities
+* Collaborated with cross-functional teams to design and implement new features, resulting in a 25% increase in user engagement
+* Implemented automated testing using Jest and Enzyme, reducing testing time by 30%
+
+2. **iOS Engineer**, DEF Agency (2018 - 2020)
+
+* Designed and developed multiple iOS apps using Swift and UIKit, achieving an average app rating of 4.5/5
+* Utilized Core Data to manage data storage and retrieval for a complex e-commerce platform
+* Participated in code reviews, ensuring high-quality coding standards
+
+3. **Junior Software Engineer**, GHI Studio (2016 - 2018)
+
+* Contributed to the development of an Android app using Kotlin and Jetpack Compose, resulting in improved performance and reduced battery drain
+* Assisted in testing and debugging, identifying and resolving issues that affected user experience
+* Participated in code reviews and provided feedback to improve team efficiency
+
+**Education:**
+
+* **Bachelor of Science in Computer Science**, University of Technology (2016)
+
+**Projects:**
+
+1. **React Native Todo List App**: A fully functional todo list app built using React Native, showcasing expertise in designing and developing scalable, efficient software solutions.
+2. **iOS Weather App**: An iOS app that utilizes Core Data to store weather data and displays current conditions using a custom-designed UI component library.
+3. **Android Quiz Game**: An Android game that leverages Jetpack Compose to create an engaging, interactive quiz experience.
+
+**Certifications:**
+
+* **React Native Certification**, React Native
+* **iOS Development with Swift**, Apple Developer Academy
+
+Note: This is just a sample CV, and you should customize it according to your specific experience, skills, and qualifications.

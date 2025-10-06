@@ -1,0 +1,74 @@
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+
+As a seasoned Cloud Architect with over 10 years of experience, I have successfully designed, implemented, and managed large-scale cloud-based systems for various industries. With a strong background in DevOps, security, and scalability, I excel at optimizing infrastructure efficiency while ensuring high availability and performance. My expertise lies in designing scalable architectures that meet business requirements while minimizing costs.
+
+**Technical Skills:**
+
+- Cloud Platforms:
+  - Amazon Web Services (AWS): EC2, S3, Lambda, API Gateway
+  - Microsoft Azure: Virtual Machines, Storage, Cosmos DB
+  - Google Cloud Platform (GCP): Compute Engine, Storage, Cloud Functions
+
+- Operating Systems:
+  - Windows Server
+  - Ubuntu Linux
+  - Red Hat Enterprise Linux
+
+- Containerization:
+  - Docker
+  - Kubernetes
+
+- Database Management:
+  - Relational: MySQL, PostgreSQL
+  - NoSQL: MongoDB, Cassandra
+  - Graph DB: Neo4j
+
+- Networking:
+  - Load Balancers
+  - VPNs
+  - DNS
+
+- Cybersecurity:
+  - Identity and Access Management (IAM)
+  - Encryption
+  - Compliance frameworks: PCI-DSS, HIPAA/HITECH
+
+**Work Experience:**
+
+### Senior Cloud Architect (2020-Present)
+
+- Designing and implementing scalable cloud architectures for various clients across multiple industries.
+- Ensuring high availability, scalability, and performance of cloud-based applications.
+- Collaborating with development teams to integrate cloud services into existing systems.
+
+### Solutions Architect (2018-2020)
+
+- Conducted needs assessments to identify areas where client businesses could benefit from cloud computing.
+- Designed and implemented cloud migration strategies for clients.
+- Worked closely with clients to ensure successful transition to the cloud, including training and support.
+
+### Infrastructure Engineer (2015-2018)
+
+- Managed day-to-day operations of an on-premises infrastructure for a financial services company.
+- Implemented security measures to protect against data breaches and cyber threats.
+- Collaborated with teams to design and implement new infrastructure projects.
+
+**Education:**
+
+- Bachelor's Degree in Computer Science, University of California (2009)
+- Certified Solutions Architect Professional (CSAP) certification from AWS
+
+**Projects:**
+
+1. **Cloud-based File Sharing Solution**: Designed a cloud-based file sharing platform using AWS S3, IAM, and Lambda to securely store and retrieve files for multiple users.
+2. **Containerized Web Application**: Developed and deployed a web application using Docker and Kubernetes, with continuous deployment using Jenkins and GitLab CI/CD pipelines.
+3. **Cloud Security Assessment**: Conducted a comprehensive security assessment of an organization's cloud infrastructure using AWS CloudSecurity Assessments, identifying vulnerabilities and providing recommendations for remediation.
+
+**Certifications:**
+
+- AWS Certified Solutions Architect - Professional
+- Amazon Web Services Certified Developer
+
+Note: Please adjust the details to fit your own experiences.

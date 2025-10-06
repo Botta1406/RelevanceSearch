@@ -1,0 +1,50 @@
+**Alexandra "Lexi" Thompson**
+
+**Professional Summary:**
+Highly experienced backend engineer with a strong passion for building scalable, efficient, and secure systems. Skilled in designing and implementing robust architectures using Python, Django, and various databases. Proven track record of delivering high-quality solutions on time, with excellent communication skills to collaborate with cross-functional teams.
+
+**Technical Skills:**
+
+* Backend Programming: Python, Django
+* Database Management: PostgreSQL, MySQL
+* Operating Systems: Linux, Windows
+* Cloud Platforms: AWS, Google Cloud
+* Agile Methodologies: Scrum, Kanban
+* Version Control: Git, SVN
+
+**Work Experience:**
+
+**Senior Backend Engineer, TechCorp (2020 - Present)**
+
+* Designed and implemented multiple high-traffic e-commerce platforms using Django and PostgreSQL.
+* Collaborated with the front-end team to ensure seamless integration of backend APIs.
+* Implemented authentication and authorization systems using OAuth and JWT.
+
+**Backend Engineer, StartUpInc (2018 - 2020)**
+
+* Developed and maintained several APIs for a social media platform using Python and Django.
+* Worked closely with the data science team to integrate machine learning models into the platform.
+* Implemented caching mechanisms using Redis to improve application performance.
+
+**Junior Backend Engineer, AgencyX (2015 - 2018)**
+
+* Assisted in the development of a web application for a small business using Django and MySQL.
+* Contributed to the implementation of a payment gateway integration using Stripe.
+* Participated in code reviews and ensured adherence to coding standards.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California, Berkeley (2015)
+
+**Projects:**
+
+* **E-commerce Platform**: A high-traffic e-commerce platform built using Django, PostgreSQL, and Redis. Implemented caching mechanisms, authentication, and authorization systems.
+* **Social Media Platform**: A social media platform developed using Python, Django, and MySQL. Integrated machine learning models for sentiment analysis and content recommendation.
+* **Blog API**: A RESTful API built using Django and PostgreSQL for a popular blog website. Implemented data visualization tools using Matplotlib and Seaborn.
+
+**Certifications:**
+
+* Certified Django Developer, Django Foundation
+* Certified Python Programmer, Python Institute
+
+Note: The experience section is just an example, you should adjust it to your actual experience and the positions you held in your career.

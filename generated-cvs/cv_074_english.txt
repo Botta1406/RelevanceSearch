@@ -1,0 +1,68 @@
+**John Michael Davis**
+
+**Professional Summary:**
+Highly skilled and passionate full-stack professional with 7 years of experience in designing, building, and delivering high-performance web applications that drive business results. Proven track record of collaborating with cross-functional teams to identify and prioritize projects, develop scalable solutions, and deliver projects on time.
+
+**Technical Skills:**
+
+* Front-end:
+ + React
+ + JavaScript
+ + Redux
+ + Expo
+* Back-end:
+ + Node.js
+ + Express.js
+ + MongoDB
+ + GraphQL
+* Design Systems:
+ + Material-UI
+ + Tailwind CSS
+* Testing and Quality Assurance:
+ + Jest
+ + Cypress
+ + Chakra UI
+* Platforms:
+ + Web
+ + React Native
+
+**Work Experience:**
+
+**Senior Software Engineer, ABC Corporation (2022 - Present)**
+
+* Led a team of junior engineers to design and develop a scalable e-commerce platform using React and Node.js
+* Collaborated with cross-functional teams to identify and prioritize projects, resulting in a 30% increase in sales revenue
+* Implemented automated testing and CI/CD pipelines using Jest and Expo
+
+**Senior Full-Stack Engineer, DEF Agency (2018 - 2022)**
+
+* Designed and developed multiple web applications using React and Node.js for clients across various industries
+* Worked closely with designers to implement design systems and ensure consistency across all products
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+**Junior Software Engineer, GHI Studio (2015 - 2018)**
+
+* Assisted senior engineers in the development of multiple web applications using React, Node.js, and MongoDB
+* Contributed to the growth of the team by mentoring junior colleagues and sharing knowledge
+* Implemented automated testing and CI/CD pipelines using Jest and Expo
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2015)
+
+**Projects:**
+
+1. **E-Commerce Platform**: Designed and developed a scalable e-commerce platform using React, Node.js, and MongoDB.
+2. **Social Media App**: Built a social media app using React Native, JavaScript, and Expo.
+3. **Task Management Tool**: Developed a task management tool using Node.js, Express.js, and GraphQL.
+
+**Certifications:**
+
+* Certified Full-Stack Developer, ABC Institute (2020)
+* Certified React Developer, DEF Certification Board (2019)
+
+**Languages:**
+
+* English (Native)
+* Spanish (Advanced)
+* French (Intermediate)

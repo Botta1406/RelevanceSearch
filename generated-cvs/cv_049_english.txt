@@ -1,0 +1,50 @@
+**Ethan Thompson**
+**Software Engineer**
+
+**Professional Summary:**
+Highly motivated software engineer with 3 years of experience in building scalable, efficient, and user-friendly backend systems using Python and Django. Proven track record of delivering high-quality solutions on time, with a strong focus on collaboration, innovation, and problem-solving.
+
+**Technical Skills:**
+
+* Programming languages: Python, JavaScript
+* Web frameworks: Django, Pyramid
+* Databases: MySQL, PostgreSQL, MongoDB
+* APIs: RESTful, GraphQL
+* Operating Systems: Windows, Linux, macOS
+* Agile methodologies: Scrum, Kanban
+* Version control: Git, SVN
+
+**Work Experience:**
+
+**Senior Backend Engineer, TechCorp (2022-Present)**
+
+* Designed and implemented multiple Django-based web applications for e-commerce, social media, and content management platforms
+* Collaborated with cross-functional teams to identify and prioritize project requirements, ensuring timely delivery of high-quality solutions
+* Developed and maintained large-scale data pipelines using Apache Beam and AWS Glue
+* Implemented authentication and authorization systems using OAuth 2.0 and Django's built-in auth framework
+
+**Backend Engineer, CodeHub (2020-2022)**
+
+* Built and deployed multiple React Native applications for iOS and Android platforms
+* Worked closely with design teams to implement responsive and user-friendly UI/UX designs
+* Implemented real-time data synchronization using Firebase Cloud Messaging and GraphQL
+* Participated in code reviews and ensured adherence to coding standards and best practices
+
+**Junior Backend Engineer, NovaTech (2019-2020)**
+
+* Assisted in the development of a Django-based web application for content management and blogging platforms
+* Contributed to the implementation of caching mechanisms using Redis and Memcached
+* Collaborated with QA teams to identify and resolve defects, ensuring high-quality deliverables
+* Learned and implemented automated testing frameworks using Pytest and Django's built-in testing tools
+
+**Education:**
+
+* Bachelor of Science in Computer Science, University of California, Los Angeles (2019)
+
+**Projects:**
+
+* **E-commerce Platform:** A Django-based web application for managing products, orders, and customer information.
+* **Social Media Platform:** A React Native application for social media sharing, messaging, and user profiles.
+* **Content Management System:** A Django-based CMS for creating, editing, and managing content.
+
+Note: The above CV is a sample and can be customized according to your experience and preferences.

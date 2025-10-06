@@ -1,0 +1,64 @@
+Here's a sample CV:
+
+**Ethan Thompson**
+
+**Contact Information:**
+Email: [ethan.thompson@email.com](mailto:ethan.thompson@email.com)
+Phone: +1 (123) 456-7890
+LinkedIn: linkedin.com/in/ethanthompson
+
+**Professional Summary:**
+Highly motivated and detail-oriented software engineer with a passion for building intuitive, user-centric applications. Proficient in leading cross-functional teams to deliver high-quality solutions on time. Skilled in designing scalable architectures and optimizing performance.
+
+**Technical Skills:**
+
+* Programming Languages:
+ + Swift (iOS)
+ + Kotlin (Android)
+ + JavaScript (React Native)
+* UI Frameworks:
+ + UIKit (iOS)
+ + Jetpack Compose (Android)
+ + React Native components
+* Databases:
+ + Core Data (iOS)
+ + Room Persistence Library (Android)
+ + Firebase Realtime Database (React Native)
+* Agile Methodologies:
+ + Scrum
+ + Kanban
+* Version Control Systems:
+ + Git
+* Operating Systems:
+ + macOS
+ + Android
+ + Windows 10
+
+**Work Experience:**
+
+1. **Senior Software Engineer**, ABC Corporation (Jan 2022 - Present)
+
+* Led a team of engineers to design and develop a new feature for the company's flagship app, resulting in a 30% increase in user engagement.
+* Collaborated with cross-functional teams to integrate third-party APIs and services, ensuring seamless functionality and high-quality results.
+
+2. **iOS Engineer**, DEF Startups (Jun 2020 - Dec 2021)
+
+* Developed and maintained multiple iOS apps for the company's clients, utilizing Swift and UIKit frameworks.
+* Implemented new features, bug fixes, and performance optimizations to improve app stability and user experience.
+
+3. **React Native Engineer**, GHI Agency (Mar 2019 - May 2020)
+
+* Built and deployed multiple React Native projects, leveraging JavaScript and Expo for efficient development and deployment.
+* Worked closely with clients to understand their requirements and deliver customized solutions that met their needs.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2018-2022)
+
+**Projects:**
+
+1. **Weather App**: A React Native app built using JavaScript, Expo, and Redux for a real-time weather feed.
+2. **Personal Finance Tracker**: An iOS app developed using Swift, UIKit, and Core Data to track expenses and income.
+3. **Social Media Clone**: A Node.js-based web application built with Express, MongoDB, and React for user authentication and data storage.
+
+Note: This is just a sample CV, and you should tailor it to your own experiences and qualifications.

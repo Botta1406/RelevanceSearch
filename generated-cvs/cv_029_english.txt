@@ -1,0 +1,68 @@
+**Name:** Ethan Thompson
+
+**Contact Information:**
+
+* Email: [ethan.thompson@email.com](mailto:ethan.thompson@email.com)
+* Phone: +1 555 123 4567
+* LinkedIn: linkedin.com/in/ethanthompsondev
+
+**Professional Summary:**
+Highly skilled and detail-oriented professional with 5 years of experience in designing, developing, and deploying scalable and efficient applications using a range of cutting-edge technologies. Proven track record of delivering high-quality solutions that meet and exceed client expectations. Passionate about staying up-to-date with the latest trends and advancements in the industry.
+
+**Technical Skills:**
+
+* Programming languages:
+ + Java
+ + Kotlin
+ + JavaScript (including React and Redux)
+* Frameworks and Libraries:
+ + Flutter
+ + Expo
+ + Android Jetpack Compose
+ + iOS UIKit and SwiftUI
+* Databases:
+ + Room (Android)
+ + Core Data (iOS)
+* Agile Methodologies:
+ + Scrum
+ + Kanban
+* Version Control Systems:
+ + Git
+ + SVN
+
+**Work Experience:**
+
+### Senior Software Engineer, ABC Corporation (2020-Present)
+
+* Led the development of multiple high-profile projects, including a cross-platform app with over 1 million downloads.
+* Collaborated with cross-functional teams to design and implement new features and functionalities.
+* Implemented automated testing and CI/CD pipelines using Jenkins and Docker.
+
+### iOS Software Engineer, DEF Startups (2018-2020)
+
+* Developed and maintained multiple iOS apps for clients across various industries.
+* Designed and implemented UI/UX workflows using Swift and UIKit.
+* Worked closely with design teams to ensure seamless integration of design elements into codebase.
+
+### React Native Developer, GHI Agency (2016-2018)
+
+* Built and deployed numerous React Native apps for clients worldwide.
+* Utilized Redux and Expo to manage state and render components efficiently.
+* Collaborated with QA teams to identify and resolve bugs in a timely manner.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, University of Illinois at Urbana-Champaign (2015-2019)
+
+**Projects:**
+
+1. **Cross-Platform Weather App**: A React Native app that fetches weather data from OpenWeatherMap API and displays it on a map.
+2. **iOS Todo List App**: An iOS app built using Swift and UIKit that allows users to create, edit, and delete todo lists.
+3. **Android Chatbot**: An Android app developed using Kotlin and Jetpack Compose that uses natural language processing to generate responses based on user input.
+
+**Certifications:**
+
+* Certified Flutter Developer (2020)
+* Certified Scrum Master (2019)
+
+Note: This is a sample CV/resume, please make sure to customize it according to your own experiences and qualifications.

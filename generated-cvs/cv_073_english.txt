@@ -1,0 +1,62 @@
+Here's a sample CV for an iOS Swift professional:
+
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+Highly skilled software engineer with 3 years of experience in designing, developing, and launching scalable, user-centric applications. Proficient in a range of technologies, from front-end to back-end, with a strong focus on creating intuitive and seamless user experiences.
+
+**Technical Skills:**
+
+* Programming Languages:
+ + Swift
+* Frameworks:
+ + UIKit
+ + SwiftUI
+ + Core Data
+ + Realm
+* Integrated Development Environments (IDEs):
+ + Xcode
+* Databases:
+ + SQLite
+ + Core Data
+* Version Control Systems:
+ + Git
+ + SVN
+* Agile Methodologies:
+ + Scrum
+* Cloud Services:
+ + AWS
+* Cross-Platform Tools:
+ + Expo
+
+**Work Experience:**
+
+### iOS Engineer, TechSpark (January 2020 - Present)
+
+* Designed and developed multiple iOS applications using Swift, including features such as login and registration, user profiles, and data analytics.
+* Collaborated with cross-functional teams to identify and prioritize project requirements, ensuring timely delivery of high-quality solutions.
+* Implemented automated testing and validation scripts to ensure code quality and reduce bugs.
+
+### Frontend Engineer, AppGenie (June 2019 - December 2019)
+
+* Built reusable UI components using SwiftUI, resulting in improved app performance and reduced maintenance costs.
+* Integrated third-party libraries for payment processing, social media integration, and push notifications.
+* Optimized app performance by implementing lazy loading, caching, and content compression.
+
+### Junior iOS Engineer, SparkLab (January 2018 - May 2019)
+
+* Assisted senior engineers in designing and developing iOS applications using Swift and Xcode.
+* Learned about UIKit and Core Data, implementing features such as data storage, retrieval, and manipulation.
+* Participated in code reviews and contributed to team discussions to improve code quality and best practices.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, University of California, Berkeley (2017)
+
+**Projects:**
+
+1. **Weather App**: A weather forecasting app built using Swift, UIKit, and Core Data, featuring a user-friendly interface and data visualization.
+2. **Todo List**: A to-do list app developed with SwiftUI, Redux, and Expo, allowing users to create, edit, and delete tasks while utilizing cloud storage for syncing.
+3. **Quiz Game**: A quiz game built using Swift, UIKit, and Realm, featuring multiple choice questions and a leaderboard system.
+
+Note: This is just a sample CV, and you should customize it according to your specific experience and achievements.

@@ -1,0 +1,64 @@
+**Alexandrova, Maria**
+
+**Contact Information:**
+
+* Email: [marialexandrova@gmail.com](mailto:marialexandrova@gmail.com)
+* Phone: +1 (123) 456-7890
+* LinkedIn: linkedin.com/in/marialexandrova
+
+**Professional Summary:**
+Highly motivated and detail-oriented professional with 2 years of experience in designing, developing, and delivering high-quality software solutions using Kotlin. Proven track record of successfully leading cross-functional teams to deliver projects on time and within budget. Skilled in creating scalable, efficient, and maintainable codebases that meet the evolving needs of clients.
+
+**Technical Skills:**
+
+* Programming Languages:
+	+ Kotlin
+	+ Java
+	+ JavaScript (with React Native experience)
+* Frameworks & Libraries:
+	+ Android Studio
+	+ Jetpack Compose
+	+ Room Persistence Library
+	+ Retrofit
+* Databases:
+	+ SQLite
+	+ Realm
+* Agile Methodologies:
+	+ Scrum
+	+ Kanban
+* Operating Systems:
+	+ Android
+	+ Windows
+	+ macOS
+
+**Work Experience:**
+
+**Senior Software Engineer, ABC Corporation (2022 - Present)**
+
+* Led a team of 3 engineers to design and develop a new feature for an existing Android application, resulting in a 30% increase in user engagement.
+* Collaborated with the product management team to identify technical requirements for the project, ensuring that the solution met the client's needs.
+* Implemented robust error handling mechanisms using Kotlin Coroutines and RxJava.
+
+**Junior Software Engineer, DEF Startups (2020 - 2022)**
+
+* Contributed to the development of an Android application from scratch, including designing the user interface, writing clean code, and testing the application thoroughly.
+* Participated in code reviews, providing feedback on code quality and suggesting improvements.
+* Assisted in debugging issues using tools like Logcat and Android Studio's built-in debugger.
+
+**Intern, GHI Agency (Summer 2020)**
+
+* Worked with an experienced team to develop a React Native application for iOS and Android platforms.
+* Learned about the Expo framework and how to integrate it with JavaScript and Redux.
+* Assisted in deploying the application on both platforms using Expo's automation features.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2018 - 2020)
+
+**Projects:**
+
+1. **Android Fitness Tracker**: Developed a comprehensive fitness tracking app for Android using Kotlin, Room Persistence Library, and Jetpack Compose.
+2. **React Native Weather App**: Built a real-time weather application for both iOS and Android platforms using React Native, JavaScript, and Redux.
+3. **Android Chatbot**: Created an interactive chatbot for Android users using Kotlin, Firebase Realtime Database, and TensorFlow Lite.
+
+Note: I've used fictional company names, job titles, and project descriptions to make the CV more realistic. Feel free to modify it according to your preferences!

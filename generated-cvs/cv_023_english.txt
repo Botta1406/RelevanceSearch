@@ -1,0 +1,67 @@
+**Alex Chen**
+**Contact Information:**
+
+* Email: [alex.chen@email.com](mailto:alex.chen@email.com)
+* Phone: +1 (123) 456-7890
+* LinkedIn: linkedin.com/in/alexchenDev
+
+**Professional Summary:**
+Highly skilled and detail-oriented software engineer with a passion for building scalable, user-friendly applications. Proficient in cross-platform development using JavaScript and native languages like Swift and Kotlin. Proven ability to work effectively in team environments, collaborate with designers, and drive projects from concept to launch.
+
+**Technical Skills:**
+
+* Frontend:
+ + React Native
+ + JavaScript (ES6+)
+ + Redux
+ + Expo
+ + CSS (Sass, Tailwind)
+* Backend:
+ + Node.js
+ + Express
+ + RESTful APIs
+ + GraphQL
+* Databases:
+ + Core Data (iOS)
+ + Room Persistence Library (Android)
+ + MongoDB
+* Operating Systems:
+ + Windows 10
+ + macOS High Sierra
+ + Android 11
+* Agile Tools:
+ + Git
+ + Jira
+ + Slack
+
+**Work Experience:**
+
+### Senior Software Engineer, ABC Corp. (2020-Present)
+
+* Led the development of a cross-platform application for iOS and Android using React Native and Redux.
+* Collaborated with designers to create visually appealing UI/UX elements and ensured seamless integration with backend APIs.
+* Implemented features such as authentication, push notifications, and in-app purchases.
+
+### iOS Engineer, DEF Startups (2018-2020)
+
+* Developed native iOS applications using Swift, UIKit, and Xcode, including features like Core Data persistence and data visualizations.
+* Worked closely with QA engineers to identify and fix bugs, ensuring high-quality releases.
+* Participated in design reviews and implemented changes based on feedback from stakeholders.
+
+### Android Engineer, GHI Agency (2016-2018)
+
+* Created native Android applications using Kotlin, Java, and Jetpack Compose, including features like Room persistence and networking.
+* Collaborated with the DevOps team to ensure smooth deployment of applications to production environments.
+* Implemented testing frameworks for unit tests and integration tests.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2016)
+
+**Projects:**
+
+1. **Cross-Platform To-Do List App**: Built a React Native application that allows users to create, edit, and delete todo lists across both iOS and Android platforms.
+2. **Weather Forecast API Integration**: Integrated a third-party weather forecasting API into an Expo-based React Native application, providing real-time weather updates for users.
+3. **Todo List Web Application**: Developed a full-stack web application using Node.js, Express, and MongoDB to manage user-generated todo lists.
+
+Note: This CV is just a sample and should be adjusted according to the individual's actual experience and skills.

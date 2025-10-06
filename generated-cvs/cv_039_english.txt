@@ -1,0 +1,74 @@
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+
+Highly skilled Cloud Architect with 5 years of experience in designing, deploying, and managing scalable cloud-based systems on Amazon Web Services (AWS). Proven track record of delivering high-quality solutions that meet business requirements while ensuring optimal performance, security, and cost efficiency. Strong expertise in cloud migration, architecture, and operations, with a passion for staying up-to-date with the latest AWS technologies and best practices.
+
+**Technical Skills:**
+
+* Cloud Platforms:
+	+ Amazon Web Services (AWS)
+	+ Serverless computing
+	+ Containerization (Docker)
+	+ Orchestration (Kubernetes)
+* Compute:
+	+ EC2 instances
+	+ Lambda functions
+	+ Elastic Beanstalk
+* Storage:
+	+ S3 buckets
+	+ EBS volumes
+	+ Glacier storage
+* Networking:
+	+ VPCs
+	+ Subnets
+	+ Route tables
+* Security:
+	+ IAM roles
+	+ Cognito user pools
+	+ Identity and Access Management (IAM)
+* Database:
+	+ RDS instances
+	+ DynamoDB tables
+	+ DocumentDB collections
+* DevOps Tools:
+	+ AWS CodePipeline
+	+ AWS CodeBuild
+	+ Terraform
+
+**Work Experience:**
+
+**Cloud Architect, ABC Corporation (2022 - Present)**
+
+* Designed and implemented a scalable cloud architecture for a global e-commerce platform using AWS services such as EC2, S3, and RDS.
+* Migrated a legacy application to a microservices-based architecture using serverless functions and containerization.
+* Collaborated with cross-functional teams to develop and implement security best practices, including IAM roles and Cognito user pools.
+
+**Cloud Engineer, DEF Startups (2020 - 2022)**
+
+* Deployed and managed a fleet of EC2 instances for a real-time analytics platform using AWS Elastic Beanstalk.
+* Implemented automated testing and deployment scripts using AWS CodePipeline and Terraform.
+* Worked closely with the DevOps team to optimize application performance and reduce costs.
+
+**Cloud Consultant, GHI Partners (2019 - 2020)**
+
+* Conducted cloud migration assessments for several clients, providing recommendations for cost savings and improved efficiency.
+* Designed and implemented a data warehousing solution using AWS RDS and Redshift.
+* Developed training programs for clients to improve their cloud skills and knowledge.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2019)
+
+**Projects:**
+
+* **Cloud-Native Microservices Architecture**: Designed and implemented a cloud-native microservices architecture using serverless functions, containerization, and event-driven programming.
+* **Real-Time Analytics Platform**: Deployed and managed a real-time analytics platform using EC2 instances, S3 storage, and Amazon Kinesis.
+* **Cost Optimization Solution**: Developed a cost optimization solution using AWS CloudWatch, AWS Cost Explorer, and Terraform.
+
+**Certifications:**
+
+* AWS Certified Solutions Architect - Professional
+* AWS Certified Developer - Associate
+
+Note: The experience and projects section can be tailored to fit the specific requirements and interests of the candidate.

@@ -1,0 +1,50 @@
+**Alexander M. Johnson**
+**Cloud Architect**
+
+**Professional Summary:**
+Highly skilled Cloud Architect with 2 years of experience in designing, building, and managing scalable, secure, and efficient cloud-based solutions on AWS. Proven track record of delivering high-quality projects on time, ensuring maximum customer satisfaction and business growth.
+
+**Technical Skills:**
+
+- **Cloud Computing:** Amazon Web Services (AWS), including EC2, S3, RDS, Elastic Container Service for Kubernetes (EKS)
+- **Security:** IAM, Cognito, CloudWatch, VPCs, Network ACLs
+- **Networking:** AWS Route 53, ELB, ALB, VPC Peering
+- **Data Storage:** S3, EBS, Glacier, DynamoDB
+- **Databases:** RDS (MySQL, PostgreSQL), Aurora, Neptune
+- **Compute Services:** Lambda, Elastic Beanstalk, CloudWatch Events
+- **Containerization:** ECS, ECR, AWS CodePipeline
+- **DevOps Tools:** Terraform, Ansible, AWS CLI
+
+**Work Experience:**
+
+**Cloud Architect**
+ABC Corporation (Jan 2022 - Present)
+
+* Designed and implemented a scalable cloud architecture for a large-scale e-commerce platform using AWS services such as EC2, S3, and RDS.
+* Implemented security measures using IAM, Cognito, and CloudWatch to ensure the highest level of security and compliance.
+* Collaborated with cross-functional teams to deliver high-quality projects on time, ensuring maximum customer satisfaction.
+
+**Cloud Engineer**
+XYZ Startups (June 2020 - Dec 2021)
+
+* Built and deployed cloud-based applications using AWS services such as Lambda, Elastic Beanstalk, and CloudWatch Events.
+* Managed and optimized the performance of large-scale cloud-based systems, resulting in significant improvements to availability and scalability.
+* Implemented automated testing and deployment scripts using Ansible and AWS CLI.
+
+**Cloud Consultant**
+ DEF Agency (March 2020 - May 2020)
+
+* Conducted assessments and provided recommendations for optimizing cloud costs and improving efficiency using AWS services such as EBS, Glacier, and DynamoDB.
+* Collaborated with clients to design and implement tailored cloud solutions that met their unique needs and requirements.
+
+**Education:**
+
+- Bachelor of Science in Computer Science, [University Name] (2018)
+
+**Projects:**
+
+1. **Cloud-Based Chatbot**: Designed and implemented a cloud-based chatbot using AWS services such as Lambda, API Gateway, and S3.
+2. **Serverless Architecture**: Built and deployed a serverless application using AWS services such as Lambda, CloudWatch Events, and DynamoDB.
+3. **Cloud Cost Optimization**: Conducted an assessment of client's cloud costs and implemented cost-saving measures using AWS services such as EBS, Glacier, and Reserve Instances.
+
+Note: I've used specific keywords to describe the candidate's experience and skills in a realistic way, without using the words "mobile" or "developer".

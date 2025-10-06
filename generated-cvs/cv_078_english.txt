@@ -1,0 +1,75 @@
+**Alexei Petrov**
+
+**Contact Information:**
+
+* Phone: +1 (123) 456-7890
+* Email: [alexepetrov@email.com](mailto:alexepetrov@email.com)
+* LinkedIn: linkedin.com/in/alexepetrov
+
+**Professional Summary:**
+
+Results-driven Cloud Architect with 10 years of experience in designing and deploying scalable, secure, and efficient cloud infrastructure for various industries. Proven track record of delivering complex projects on time, exceeding stakeholder expectations, and ensuring seamless integration with existing systems. Skilled in AWS architecture, security, migration, and optimization.
+
+**Technical Skills:**
+
+* Cloud Platforms:
+ + Amazon Web Services (AWS)
+ + Microsoft Azure
+ + Google Cloud Platform (GCP)
+* Compute Services:
+ + EC2
+ + Lambda
+ + Elastic Container Service (ECS)
+ + Kubernetes
+* Storage Services:
+ + S3
+ + EBS
+ + Glacier
+* Networking and Security:
+ + VPCs
+ + Subnets
+ + Network Load Balancers
+ + IAM Policies
+ + Cognito
+* Database Services:
+ + RDS
+ + Aurora
+ + DynamoDB
+ + DocumentDB
+* DevOps Tools:
+ + Terraform
+ + Ansible
+ + Jenkins
+ + Docker
+
+**Work Experience:**
+
+**Cloud Architect, ABC Corporation (2020 - Present)**
+
+* Designed and implemented a cloud-first architecture for a large-scale e-commerce platform, resulting in 30% cost savings and 25% increase in scalability.
+* Managed a team of engineers to deploy and maintain multiple AWS environments, ensuring high availability and security.
+* Collaborated with cross-functional teams to implement CI/CD pipelines, automation scripts, and monitoring tools.
+
+**Senior Cloud Engineer, DEF Startups (2018 - 2020)**
+
+* Led the migration of a critical application from on-premises infrastructure to AWS, resulting in 40% reduction in operational costs.
+* Designed and implemented a microservices architecture using AWS Lambda, API Gateway, and Docker.
+* Worked closely with QA teams to implement automated testing and deployment scripts.
+
+**Cloud Consultant, GHI Consulting (2015 - 2018)**
+
+* Conducted assessments of clients' current cloud environments and provided recommendations for cost optimization, security, and scalability.
+* Designed and implemented AWS-based solutions for multiple clients, resulting in an average increase of 25% in efficiency.
+* Collaborated with sales teams to develop value propositions and proposals.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, University of California, Berkeley (2010 - 2014)
+
+**Projects:**
+
+* **Cloud Migration Project:** Migrated a critical application from on-premises infrastructure to AWS, resulting in 40% reduction in operational costs.
+* **Containerized Application:** Implemented a containerized application using Docker, Kubernetes, and Terraform, achieving 30% increase in scalability and efficiency.
+* **Serverless Architecture:** Designed and implemented a serverless architecture using AWS Lambda, API Gateway, and Cognito, reducing costs by 50%.
+
+Note: The above CV is a sample and can be adjusted according to your specific experience and qualifications.

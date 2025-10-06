@@ -1,0 +1,65 @@
+**CV:**
+
+**Name:** Ethan Thompson
+
+**Contact Information:**
+
+* Email: [ethan.thompson@email.com](mailto:ethan.thompson@email.com)
+* Phone: +1234567890
+* LinkedIn: linkedin.com/in/ethanthompsondev
+
+**Professional Summary:**
+Highly skilled professional with 5 years of experience in crafting scalable, efficient, and user-friendly web applications using PHP and Laravel. Proven track record of delivering complex projects on time and exceeding client expectations.
+
+**Technical Skills:**
+
+* Programming Languages:
+ + PHP
+ + JavaScript (including React Native)
+ + HTML/CSS/SCSS
+* Frameworks:
+ + Laravel
+ + React
+* Databases:
+ + MySQL
+ + PostgreSQL
+* Operating Systems:
+ + Windows 10
+ + Linux (Ubuntu/Debian)
+* Agile Methodologies:
+ + Scrum
+ + Kanban
+
+**Work Experience:**
+
+**Senior Software Engineer, ABC Corporation (2020-Present)**
+
+* Led the development of a cloud-based e-commerce platform using Laravel and MySQL, resulting in a 30% increase in sales.
+* Collaborated with cross-functional teams to design and implement new features for existing applications, improving overall user experience.
+
+**Software Engineer, DEF Agency (2018-2020)**
+
+* Contributed to the development of a React Native application for iOS and Android, utilizing JavaScript and Expo.
+* Implemented data synchronization between client-side and server-side using GraphQL and Apollo Server.
+
+**Junior Software Engineer, GHI Startups (2016-2018)**
+
+* Assisted in the development of a Laravel-based web application, focusing on backend functionality and database integration.
+* Participated in code reviews and ensured adherence to coding standards.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2015-2019)
+
+**Projects:**
+
+1. **E-commerce Platform:** Developed a cloud-based e-commerce platform using Laravel, MySQL, and GraphQL.
+2. **React Native App:** Built a React Native application for iOS and Android, utilizing JavaScript and Expo.
+3. **Laravel API:** Created a RESTful API using Laravel, PostgreSQL, and Apollo Server.
+
+**Certifications:**
+
+* Laravel Certification (2020)
+* Certified Scrum Master (2019)
+
+Note: The information provided is fictional and used only for demonstration purposes. Please ensure to customize your CV/Resume according to your actual experience and qualifications.

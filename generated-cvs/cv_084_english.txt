@@ -1,0 +1,57 @@
+**Ethan Michael Brown**
+
+**Professional Summary:**
+Highly motivated and detail-oriented front-end professional with 5 years of experience in designing, building, and maintaining visually stunning user interfaces for web applications using Vue.js. Proven track record of delivering high-quality solutions that meet and exceed client expectations.
+
+**Technical Skills:**
+
+* Front-end frameworks:
+ + Vue.js
+* Programming languages:
+ + JavaScript
+* HTML/CSS preprocessors:
+ + Sass
+* Build tools:
+ + Webpack
+ + Babel
+* Version control systems:
+ + Git
+ + SVN
+* Design tools:
+ + Sketch
+ + Adobe XD
+* Operating Systems:
+ + Windows 10
+ + macOS High Sierra
+
+**Work Experience:**
+
+**Senior Front-end Engineer, ABC Corporation (2020-Present)**
+
+* Led the development of multiple high-traffic web applications using Vue.js, resulting in a 30% increase in user engagement.
+* Collaborated with cross-functional teams to design and implement responsive UI components that met and exceeded client requirements.
+* Implemented advanced front-end features such as lazy loading, infinite scrolling, and custom animations.
+
+**Front-end Engineer, DEF Agency (2018-2020)**
+
+* Contributed to the development of a web-based project management tool using Vue.js, resulting in a 25% increase in productivity for clients.
+* Designed and implemented responsive UI components that met the requirements of multiple clients across various industries.
+* Worked closely with designers to ensure seamless integration of front-end and back-end features.
+
+**Junior Front-end Engineer, GHI Startups (2016-2018)**
+
+* Assisted in the development of a web-based project management tool using Vue.js, resulting in a 15% increase in user adoption.
+* Implemented basic front-end features such as navigation bars, forms, and responsive UI components.
+* Collaborated with senior engineers to learn and implement best practices for front-end development.
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, XYZ University (2016)
+
+**Projects:**
+
+* **Personal Portfolio**: A responsive web application built using Vue.js, showcasing my skills as a front-end engineer.
+* **E-commerce Application**: A web-based e-commerce platform built using Vue.js, with features such as product filtering, sorting, and search functionality.
+* **Blog Platform**: A web-based blog platform built using Vue.js, with features such as user authentication, commenting system, and post publishing.
+
+Note: I've used fictional company names and project details to make the CV more realistic. You can replace them with your own experiences and projects.

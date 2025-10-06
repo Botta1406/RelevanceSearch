@@ -1,0 +1,61 @@
+**Ethan Thompson**
+
+**Professional Summary:**
+Results-driven professional with over a decade of expertise in crafting intuitive, data-driven applications that drive business growth. Skilled in leveraging cutting-edge technologies to deliver scalable, secure solutions that exceed client expectations.
+
+**Technical Skills:**
+
+* Programming languages:
+	+ Java
+	+ Kotlin
+	+ Swift
+	+ JavaScript
+* Frameworks and libraries:
+	+ React Native
+	+ Flutter
+	+ Expo
+	+ Android Jetpack Compose
+	+ UIKit
+	+ SwiftUI
+* Databases:
+	+ Core Data (iOS)
+	+ Room Persistence Library (Android)
+	+ Firebase Firestore (Cross-platform)
+* Front-end technologies:
+	+ Redux
+	+ React Hooks
+	+ CSS preprocessors (Sass, Less)
+* Back-end technologies:
+	+ Node.js (Express.js)
+	+ Django (Python)
+	+ AWS Lambda (Serverless architecture)
+
+**Work Experience:**
+
+1. **Senior Software Engineer**, XYZ Corporation (2020-Present)
+	* Led cross-functional teams to design and develop complex, data-driven applications for various industries
+	* Utilized expertise in React Native and Flutter to create scalable, secure solutions
+	* Implemented cutting-edge technologies such as Redux and Expo to enhance application performance
+2. **iOS Software Engineer**, ABC Startups (2018-2020)
+	* Developed multiple iOS applications using Swift, UIKit, and Core Data
+	* Collaborated with designers to create visually appealing interfaces
+	* Conducted thorough testing and debugging to ensure high-quality deliverables
+3. **Android Software Engineer**, DEF Agency (2015-2018)
+	* Created Android applications using Kotlin, Java, and Jetpack Compose
+	* Implemented data storage solutions using Room Persistence Library
+	* Participated in agile development methodologies to meet tight project deadlines
+
+**Education:**
+
+* Bachelor of Science in Computer Science, University of California, Los Angeles (UCLA) (2015)
+
+**Projects:**
+
+1. **E-Commerce Platform**: Developed a comprehensive e-commerce platform using React Native, Node.js, and Express.js
+2. **IoT Data Analytics Tool**: Created an IoT data analytics tool utilizing Flutter, Firebase Firestore, and Redux
+3. **Personal Finance Manager**: Built a personal finance manager application using Swift, UIKit, and Core Data for iOS
+
+**Certifications/Awards:**
+
+* Certified Scrum Master (CSM)
+* Google Cloud Platform - Professional Cloud Developer Certification

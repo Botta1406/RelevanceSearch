@@ -1,0 +1,59 @@
+**Alexandre P. Brown**
+
+**Professional Summary:**
+
+Results-driven technology professional with over a decade of experience in designing, developing, and deploying scalable web applications using PHP Laravel framework. Proven track record of delivering high-quality solutions that meet business requirements while ensuring seamless user experiences. Skilled in collaborating with cross-functional teams to identify and prioritize project needs.
+
+**Technical Skills:**
+
+* Programming languages:
+ + PHP
+ + JavaScript (including React)
+* Frameworks and libraries:
+ + Laravel
+ + React
+* Databases:
+ + MySQL
+ + PostgreSQL
+* Front-end frameworks:
+ + Bootstrap
+* Back-end frameworks:
+ + Symfony
+* Operating Systems:
+ + Windows 10
+ + macOS High Sierra
+* Integrated Development Environments (IDEs):
+ + PHPStorm
+ + Visual Studio Code
+
+**Work Experience:**
+
+### Senior Software Engineer, NovaTech (2020 - Present)
+
+* Lead the development of complex web applications using Laravel framework and MySQL database.
+* Collaborate with product managers to define project requirements and prioritize development tasks.
+* Ensure seamless integration with third-party services via APIs.
+
+### PHP Backend Engineer, ApexSoft (2018 - 2020)
+
+* Designed and developed multiple RESTful APIs using Laravel framework and implemented secure authentication mechanisms using OAuth.
+* Worked closely with frontend engineers to integrate front-end components with backend services.
+* Participated in code reviews and ensured adherence to coding standards.
+
+### PHP Web Application Developer, NovaSoft (2015 - 2018)
+
+* Contributed to the development of multiple web applications using Laravel framework and MySQL database.
+* Implemented user authentication mechanisms using PHP framework's built-in auth system.
+* Collaborated with QA engineers to identify and report bugs in the production environment.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, University of Technology (2015)
+
+**Projects:**
+
+1. **E-commerce Platform:** Developed a fully functional e-commerce platform using Laravel framework and MySQL database. Implemented product categorization, search functionality, and secure payment gateways.
+2. **Real-time Chat Application:** Built a real-time chat application using Laravel Echo and Socket.io. Integrated with multiple devices via web and mobile platforms.
+3. **Web Scraper:** Created a web scraper using PHP and regular expressions to extract data from multiple websites.
+
+Note: The above CV is just an example and you should tailor it to your specific experience, skills, and the job you are applying for.

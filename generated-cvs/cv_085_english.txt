@@ -1,0 +1,66 @@
+**Full Name:** Ethan Michael Reed
+
+**Contact Information:**
+
+* Email: [ethan.reed@email.com](mailto:ethan.reed@email.com)
+* Phone: +1 (555) 123-4567
+* LinkedIn: linkedin.com/in/ethanmichaellered
+
+**Professional Summary:**
+Highly skilled and passionate individual with a strong background in crafting intuitive, user-friendly interfaces for cross-platform applications. Proficient in leveraging cutting-edge technologies to drive innovation and enhance the overall user experience.
+
+**Technical Skills:**
+
+* Frontend:
+ + React Native
+ + JavaScript (ES6+)
+ + Redux
+ + Expo
+ + CSS3 (Sass/SCSS)
+* Backend:
+ + Node.js
+ + Express.js
+ + MongoDB
+ + RESTful APIs
+* Design:
+ + Sketch
+ + Figma
+ + Adobe XD
+* Platforms:
+ + iOS (Swift, UIKit, SwiftUI, Xcode, Core Data)
+ + Android (Kotlin, Java, Jetpack Compose, Android Studio, Room)
+
+**Work Experience:**
+
+### Senior UI/UX Engineer (Freelance) - 2022-Present
+
+* Collaborated with cross-functional teams to design and develop visually stunning, user-centric applications for various industries.
+* Utilized React Native, JavaScript, Redux, and Expo to build scalable, efficient, and seamless interfaces.
+* Successfully implemented a comprehensive testing framework using Jest and Enzyme.
+
+### iOS Engineer (Apple Inc.) - 2020-2022
+
+* Contributed to the development of multiple apps, focusing on iOS platform-specific features such as Swift, UIKit, and Core Data.
+* Implemented UI components, layouts, and animations using SwiftUI, resulting in improved app performance and user experience.
+* Participated in code reviews and ensured adherence to Apple's software guidelines.
+
+### Android Engineer (ABC Startups) - 2019-2020
+
+* Built scalable, real-time applications utilizing Kotlin, Java, Jetpack Compose, and Android Studio.
+* Designed and implemented data models using Room persistence library for efficient storage and retrieval of user data.
+* Developed and maintained multiple APIs using Node.js, Express.js, and MongoDB.
+
+**Education:**
+
+* Bachelor of Science in Computer Science - XYZ University (2016-2020)
+
+**Projects:**
+
+1. **WeatherApp**: A React Native application that fetches weather data from OpenWeatherMap API and displays it on a intuitive map interface.
+2. **TodoList**: An iOS app built using Swift, UIKit, and Core Data, allowing users to manage their daily tasks in a clean and organized manner.
+3. **SocialMedia**: An Android app developed with Kotlin, Java, Jetpack Compose, and Room persistence library, enabling users to share content on various social media platforms.
+
+**Certifications/Awards:**
+
+* Certified React Native Developer - 2021
+* Apple Developer Program Member - 2020

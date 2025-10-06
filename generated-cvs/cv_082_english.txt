@@ -1,0 +1,59 @@
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+
+Highly experienced front-end expert with a proven track record of delivering high-quality, engaging user experiences across various platforms. Skilled in leveraging cutting-edge technologies to drive business growth, improve productivity, and enhance customer satisfaction.
+
+**Technical Skills:**
+
+* Front-end frameworks: Vue.js
+* Programming languages: JavaScript
+* UI/UX design tools: Sketch, Figma
+* Build tools: Webpack, ESLint
+* State management: Vuex, Redux
+* Library integrations: jQuery, Lodash
+* Responsive web design: CSS Grid, Flexbox
+* Accessibility features: ARIA, WCAG 2.1
+
+**Work Experience:**
+
+**Senior Front-end Engineer (2020-Present)**
+
+* Company: GreenTech Inc.
+* Location: San Francisco, CA
+* Responsibilities:
+ + Led the development of high-performing front-end applications using Vue.js and JavaScript
+ + Collaborated with cross-functional teams to deliver scalable, secure solutions
+ + Implemented responsive web design patterns for seamless user experiences on various devices
+ + Conducted code reviews, ensured adherence to coding standards, and mentored junior team members
+
+**Front-end Engineer (2018-2020)**
+
+* Company: CodeSprint LLC
+* Location: New York, NY
+* Responsibilities:
+ + Contributed to the development of multiple front-end projects using Vue.js and React Native
+ + Worked closely with designers to implement UI/UX design concepts
+ + Conducted unit testing, ensured code quality, and participated in code reviews
+ + Collaborated with DevOps team to ensure smooth deployment and scaling
+
+**Junior Front-end Engineer (2015-2018)**
+
+* Company: StartUpHub Inc.
+* Location: Boston, MA
+* Responsibilities:
+ + Assisted in the development of front-end applications using JavaScript, HTML/CSS
+ + Learned and implemented new technologies, such as Vue.js and React Native
+ + Participated in code reviews, contributed to bug fixes, and improved overall code quality
+
+**Education:**
+
+* Bachelor's Degree in Computer Science, Boston University (2015)
+
+**Projects:**
+
+1. **GreenTech Dashboard**: A responsive web application built using Vue.js, JavaScript, and HTML/CSS, providing real-time data insights for environmental monitoring.
+2. **CodeSprint Chatbot**: A conversational AI chatbot developed using React Native, JavaScript, and natural language processing (NLP) libraries, integrating with multiple third-party APIs.
+3. **StartUpHub Blog**: A responsive web application built using Vue.js, JavaScript, and HTML/CSS, featuring a blogging platform with user authentication and commenting system.
+
+Note: The experience and projects listed are fictional examples, but the skills and technologies mentioned are realistic and up-to-date.

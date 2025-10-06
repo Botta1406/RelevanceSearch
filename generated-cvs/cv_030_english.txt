@@ -1,0 +1,51 @@
+**Name:** Ethan Thompson
+
+**Professional Summary:**
+Highly skilled and experienced software engineer with a strong passion for creating innovative, user-centric applications that combine cutting-edge technology with elegant design. Proficient in leading cross-functional teams to deliver high-quality solutions on time and within budget.
+
+**Technical Skills:**
+
+- Programming languages: Kotlin, Java
+- Android frameworks: Jetpack Compose, Android Studio, Room Persistence Library
+- Database management: Room Persistence Library
+- UI/UX Design: Material Design, MVVM Architecture
+- Agile methodologies: Scrum
+- Version control systems: Git
+- Testing frameworks: JUnit, Espresso
+
+**Work Experience:**
+
+**Senior Software Engineer at NovaTech (Jan 2020 - Present)**
+
+- Led a team of engineers to design and implement a scalable architecture for a cloud-based application.
+- Collaborated with the design team to create visually appealing user interfaces using Material Design principles.
+- Implemented data encryption using RSA/ AES algorithms to ensure secure data transmission.
+
+**Software Engineer at SparkLab (Jun 2018 - Dec 2019)**
+
+- Contributed to the development of a React Native app for iOS and Android, utilizing JavaScript and Redux state management.
+- Implemented features such as user authentication, push notifications, and social media integration using Expo.
+- Collaborated with the QA team to identify and resolve bugs.
+
+**Junior Software Engineer at BrightStar (May 2016 - May 2018)**
+
+- Assisted in the development of a hybrid app for iOS and Android, utilizing native Swift and Java programming languages.
+- Implemented features such as data storage using Core Data and UI/UX design using UIKit.
+- Participated in code reviews and contributed to improving overall project quality.
+
+**Education:**
+
+- Bachelor's Degree in Computer Science, University of California, Los Angeles (UCLA) (2015 - 2016)
+
+**Projects:**
+
+1. **Smart Home Automation System**: A React Native app that allows users to control smart home devices remotely using a web-based interface.
+2. **Weather Forecast App**: A hybrid app for iOS and Android that displays current weather conditions and forecasts from multiple sources, utilizing native APIs and data storage mechanisms.
+3. **To-Do List App**: A simple to-do list app built using Jetpack Compose and Android Studio, featuring Material Design UI/UX and data encryption.
+
+**Certifications:**
+
+- Certified Scrum Master (CSM)
+- Certified Java Developer (OCPJP)
+
+Note: The above CV is a sample and can be customized according to the individual's experience and preferences.

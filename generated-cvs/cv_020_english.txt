@@ -1,0 +1,66 @@
+**John Lee**
+**Contact Information:**
+
+* Email: [johneelee@email.com](mailto:johneelee@email.com)
+* Phone: +1234567890
+* LinkedIn: linkedin.com/in/johnlee123
+
+**Professional Summary:**
+
+Highly motivated and detail-oriented software engineer with 2 years of experience in designing, developing, and deploying scalable, efficient, and user-friendly applications for various industries. Proficient in multiple programming languages, frameworks, and technologies, with a strong focus on delivering high-quality solutions that meet customer expectations.
+
+**Technical Skills:**
+
+* Programming Languages:
+ + Java
+ + Kotlin
+ + JavaScript
+* Frameworks & Libraries:
+ + Android Jetpack Compose
+ + Room Persistence Library
+ + Android Studio
+ + React Native (with Expo)
+ + Redux
+* Databases:
+ + Core Data
+ + Room Persistence Library
+* Operating Systems:
+ + Android 10 and above
+ + iOS 13 and above
+* Agile Methodologies:
+ + Scrum
+
+**Work Experience:**
+
+### Senior Software Engineer, ABC Corporation (2022-Present)
+
+* Designed, developed, and deployed multiple features for a large-scale e-commerce platform using Kotlin, Jetpack Compose, and Room Persistence Library.
+* Collaborated with cross-functional teams to identify and prioritize project requirements, ensuring timely delivery of high-quality solutions.
+* Implemented automated testing and continuous integration/continuous deployment (CI/CD) pipelines using Android Studio.
+
+### Junior Software Engineer, DEF Agency (2020-2022)
+
+* Contributed to the development of a real-time analytics platform for a leading financial institution using Java, Spring Boot, and React Native (with Expo).
+* Worked closely with senior engineers to understand project requirements, design architecture, and implement features.
+* Participated in code reviews and ensured adherence to coding standards and best practices.
+
+### Intern, GHI Startup (Summer 2020)
+
+* Assisted in the development of a chatbot application using Swift, UIKit, and Xcode for iOS.
+* Contributed to the creation of user interfaces, implemented business logic, and integrated third-party APIs.
+* Learned about Agile methodologies, version control systems, and software testing techniques.
+
+**Education:**
+
+* Bachelor of Science in Computer Science, XYZ University (2018-2022)
+
+**Projects:**
+
+1. **E-commerce Platform**: Designed and developed a comprehensive e-commerce platform using Kotlin, Jetpack Compose, and Room Persistence Library.
+2. **Real-Time Analytics Platform**: Contributed to the development of a real-time analytics platform for a leading financial institution using Java, Spring Boot, and React Native (with Expo).
+3. **Chatbot Application**: Created a chatbot application using Swift, UIKit, and Xcode for iOS, demonstrating proficiency in user interface design and business logic implementation.
+
+**Certifications:**
+
+* Certified Scrum Master (CSM), Scrum Alliance
+* Android Development Fundamentals, Google Developer Certification
